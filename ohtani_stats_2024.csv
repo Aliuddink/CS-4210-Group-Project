@@ -1,0 +1,829 @@
+pitcher,events,home_team,away_team,pitch_name,release_speed,launch_speed,launch_angle,hit_distance_sc,bb_type,release_pos_x,release_pos_y,zone,p_throws,balls,strikes,outs_when_up,inning
+543037,field_out,NYY,LAD,Knuckle Curve,83.3,79.1,7.0,102.0,ground_ball,-2.52,54.37,13.0,R,1,1,0,7
+543037,strikeout,NYY,LAD,Knuckle Curve,87.3,,,,,-2.74,54.1,13.0,R,1,2,1,5
+543037,field_out,NYY,LAD,Changeup,90.4,88.2,29.0,317.0,fly_ball,-2.77,54.2,13.0,R,0,2,2,3
+596133,catcher_interf,NYY,LAD,Changeup,89.7,,,,,-1.63,54.56,4.0,R,0,0,1,8
+543037,field_out,NYY,LAD,4-Seam Fastball,95.6,93.2,45.0,289.0,fly_ball,-2.76,54.32,5.0,R,0,0,0,1
+661563,field_out,NYY,LAD,Slider,86.6,102.0,30.0,379.0,fly_ball,-2.85,53.95,6.0,R,1,0,0,3
+643410,strikeout,NYY,LAD,Split-Finger,85.7,,,,,-0.84,53.91,13.0,R,3,2,1,7
+661563,field_out,NYY,LAD,Slider,87.5,83.9,58.0,173.0,popup,-2.62,53.82,5.0,R,3,2,0,1
+657612,single,NYY,LAD,Sinker,88.9,103.8,14.0,266.0,line_drive,3.92,53.6,6.0,L,0,0,0,5
+657376,field_out,NYY,LAD,Sinker,95.9,103.9,-17.0,9.0,ground_ball,-1.23,54.39,4.0,R,2,2,0,3
+641482,strikeout,NYY,LAD,Cutter,88.2,,,,,1.19,54.41,13.0,L,3,2,1,4
+657612,field_out,NYY,LAD,4-Seam Fastball,90.8,57.4,72.0,70.0,popup,3.85,53.7,6.0,L,2,2,0,7
+657376,walk,NYY,LAD,Cutter,93.4,,,,,-1.42,54.5,11.0,R,3,0,0,1
+596133,hit_by_pitch,NYY,LAD,Cutter,91.8,,,,,-1.45,54.4,14.0,R,1,1,1,9
+607074,strikeout,LAD,NYY,Slider,89.1,,,,,1.91,54.44,13.0,L,1,2,1,3
+605280,walk,LAD,NYY,Sinker,97.0,,,,,-0.53,54.25,13.0,R,3,1,1,7
+664776,field_out,LAD,NYY,Sinker,94.4,101.1,-22.0,5.0,ground_ball,-3.21,53.51,7.0,R,0,0,2,4
+607074,field_out,LAD,NYY,4-Seam Fastball,96.8,109.5,48.0,315.0,fly_ball,1.67,54.52,3.0,L,1,0,0,1
+543037,field_out,LAD,NYY,Changeup,89.8,60.2,-61.0,2.0,ground_ball,-2.49,54.23,11.0,R,0,1,0,6
+543037,strikeout,LAD,NYY,Knuckle Curve,84.4,,,,,-2.77,54.33,14.0,R,2,2,2,3
+592454,double,LAD,NYY,Changeup,87.1,113.9,19.0,377.0,line_drive,-2.42,53.79,4.0,R,1,0,1,8
+543037,field_out,LAD,NYY,4-Seam Fastball,95.8,106.0,36.0,372.0,fly_ball,-2.57,54.33,4.0,R,0,0,0,1
+641482,field_out,LAD,NYY,4-Seam Fastball,92.4,83.3,48.0,234.0,fly_ball,0.7,54.53,5.0,L,0,0,1,10
+640455,strikeout,LAD,NYM,4-Seam Fastball,94.2,,,,,4.3,53.44,3.0,L,2,2,1,2
+673540,walk,LAD,NYM,4-Seam Fastball,96.7,,,,,-2.37,53.82,13.0,R,3,2,0,8
+592773,single,LAD,NYM,4-Seam Fastball,98.4,79.7,25.0,265.0,line_drive,-0.46,54.52,2.0,R,3,2,0,6
+640455,single,LAD,NYM,4-Seam Fastball,92.1,102.5,-3.0,28.0,ground_ball,4.24,53.33,4.0,L,2,2,0,1
+621242,field_out,LAD,NYM,4-Seam Fastball,96.5,86.0,83.0,28.0,popup,-2.05,53.33,7.0,R,0,0,0,4
+656849,single,NYM,LAD,Slider,85.0,68.6,41.0,208.0,popup,2.61,53.39,12.0,L,0,0,2,4
+656849,walk,NYM,LAD,Sinker,94.5,,,,,2.12,53.23,11.0,L,3,2,2,2
+621242,strikeout,NYM,LAD,4-Seam Fastball,99.2,,,,,-2.17,53.46,11.0,R,1,2,1,8
+592773,strikeout,NYM,LAD,4-Seam Fastball,98.0,,,,,-0.47,54.5,1.0,R,2,2,2,5
+656849,single,NYM,LAD,Curveball,83.3,101.9,-5.0,18.0,ground_ball,2.23,53.43,7.0,L,3,2,0,1
+500779,walk,NYM,LAD,Changeup,85.1,,,,,2.44,54.21,13.0,L,3,2,1,4
+500779,walk,NYM,LAD,Changeup,86.8,,,,,2.34,54.12,13.0,L,3,0,1,3
+664849,strikeout,NYM,LAD,Sinker,91.7,,,,,3.34,54.49,7.0,L,1,2,2,8
+676130,walk,NYM,LAD,Changeup,87.0,,,,,-2.39,54.33,11.0,R,3,0,1,6
+664849,field_out,NYM,LAD,Sweeper,82.2,50.7,-32.0,3.0,ground_ball,3.77,54.6,13.0,L,1,2,2,7
+500779,home_run,NYM,LAD,Sinker,90.8,117.8,22.0,422.0,fly_ball,2.43,54.32,5.0,L,1,0,0,1
+622663,field_out,NYM,LAD,Sweeper,85.2,96.2,47.0,266.0,fly_ball,-2.11,54.27,12.0,R,1,0,0,5
+622663,walk,NYM,LAD,4-Seam Fastball,96.7,,,,,-1.69,54.3,6.0,R,3,2,0,3
+656731,home_run,NYM,LAD,Cutter,89.0,115.9,37.0,397.0,fly_ball,-2.57,53.12,9.0,R,0,1,1,8
+657585,strikeout,NYM,LAD,Cutter,92.4,,,,,-2.43,54.36,14.0,R,0,2,2,6
+622663,field_out,NYM,LAD,4-Seam Fastball,95.0,99.8,-7.0,15.0,ground_ball,-1.77,54.36,8.0,R,0,0,0,1
+640455,field_out,LAD,NYM,Sweeper,79.3,73.5,68.0,120.0,popup,3.89,53.34,13.0,L,0,1,2,5
+640455,strikeout,LAD,NYM,4-Seam Fastball,92.6,,,,,4.22,53.75,1.0,L,0,2,0,3
+664208,walk,LAD,NYM,Cutter,87.9,,,,,-1.76,53.32,11.0,R,3,0,1,7
+621242,walk,LAD,NYM,4-Seam Fastball,97.7,,,,,-2.29,53.01,12.0,R,3,2,0,9
+640455,strikeout,LAD,NYM,4-Seam Fastball,92.0,,,,,4.53,53.9,2.0,L,2,2,0,1
+673540,single,LAD,NYM,Cutter,90.7,102.4,-15.0,9.0,ground_ball,-2.3,54.08,5.0,R,0,0,1,2
+676130,walk,LAD,NYM,Sinker,93.9,,,,,-2.73,54.39,11.0,R,3,0,1,8
+656849,single,LAD,NYM,Curveball,80.5,116.5,18.0,381.0,line_drive,2.11,53.65,5.0,L,1,0,1,4
+664849,field_out,LAD,NYM,Sinker,92.4,103.1,26.0,393.0,fly_ball,3.3,54.55,8.0,L,2,2,1,6
+673540,field_out,LAD,NYM,Cutter,92.8,90.6,-31.0,4.0,ground_ball,-2.07,54.02,4.0,R,1,0,0,1
+506433,strikeout,LAD,SD,Curveball,71.4,,,,,-1.6,54.01,11.0,R,1,2,1,6
+506433,field_out,LAD,SD,Cutter,92.1,94.4,69.0,142.0,popup,-2.19,54.06,5.0,R,1,1,1,3
+506433,strikeout,LAD,SD,Slider,87.4,,,,,-1.95,54.15,14.0,R,3,2,0,1
+656945,strikeout,LAD,SD,4-Seam Fastball,99.1,,,,,2.39,54.19,5.0,L,0,2,2,8
+656302,single,SD,LAD,Sweeper,84.8,91.4,5.0,89.0,ground_ball,-1.46,54.01,11.0,R,0,0,2,2
+669093,walk,SD,LAD,Split-Finger,84.7,,,,,-0.42,53.39,13.0,R,3,2,2,6
+593974,strikeout,SD,LAD,Sinker,94.6,,,,,1.08,54.85,14.0,L,3,2,0,8
+670970,walk,SD,LAD,Sinker,96.0,,,,,2.03,54.13,12.0,L,3,0,1,4
+656302,field_out,SD,LAD,4-Seam Fastball,98.8,89.0,-15.0,10.0,ground_ball,-1.03,54.12,5.0,R,2,2,0,1
+650633,field_out,SD,LAD,Sweeper,82.3,103.5,31.0,385.0,fly_ball,-3.37,54.75,4.0,R,3,2,0,5
+650633,single,SD,LAD,Changeup,88.1,77.1,21.0,224.0,line_drive,-3.29,54.24,4.0,R,1,1,0,3
+656945,strikeout,SD,LAD,Slider,90.3,,,,,2.36,54.03,1.0,L,2,2,0,8
+650633,strikeout,SD,LAD,Sweeper,83.8,,,,,-3.25,54.36,14.0,R,2,2,0,1
+506433,field_out,LAD,SD,Curveball,73.0,46.9,-77.0,1.0,ground_ball,-1.52,53.8,5.0,R,3,2,0,6
+506433,field_out,LAD,SD,Split-Finger,88.1,90.2,-3.0,22.0,ground_ball,-2.02,53.91,7.0,R,2,1,1,3
+656945,strikeout,LAD,SD,4-Seam Fastball,97.0,,,,,2.42,54.27,12.0,L,0,2,1,8
+506433,strikeout,LAD,SD,Slider,87.2,,,,,-2.24,54.05,13.0,R,2,2,0,1
+656302,home_run,LAD,SD,4-Seam Fastball,96.9,111.8,25.0,372.0,fly_ball,-1.06,53.99,2.0,R,2,1,2,2
+656945,strikeout,LAD,SD,4-Seam Fastball,97.4,,,,,2.38,54.1,12.0,L,2,2,1,8
+670970,single,LAD,SD,Sinker,98.4,67.8,28.0,217.0,fly_ball,2.1,54.02,12.0,L,3,2,1,4
+656302,field_out,LAD,SD,4-Seam Fastball,99.4,82.7,46.0,249.0,fly_ball,-0.93,54.19,12.0,R,2,2,0,1
+592094,strikeout,LAD,SD,Changeup,89.6,,,,,-1.06,54.17,14.0,R,0,2,0,6
+663372,field_out,COL,LAD,4-Seam Fastball,94.3,98.5,-5.0,17.0,ground_ball,-1.16,53.87,14.0,R,0,1,2,6
+663372,field_out,COL,LAD,4-Seam Fastball,95.4,106.5,-2.0,43.0,ground_ball,-1.37,54.03,4.0,R,3,1,0,4
+680767,single,COL,LAD,4-Seam Fastball,99.3,110.8,14.0,247.0,line_drive,-2.56,53.57,8.0,R,1,1,1,8
+663372,field_out,COL,LAD,Changeup,85.4,77.3,11.0,134.0,ground_ball,-1.45,54.22,13.0,R,2,2,0,1
+622608,walk,COL,LAD,4-Seam Fastball,95.9,,,,,-2.36,54.49,11.0,R,3,2,0,5
+683409,field_out,COL,LAD,Slider,89.8,100.2,19.0,308.0,line_drive,-1.47,54.2,3.0,R,1,2,2,7
+664875,field_out,COL,LAD,Sinker,95.2,96.9,-23.0,4.0,ground_ball,-2.97,54.21,14.0,R,1,1,0,9
+622608,field_out,COL,LAD,Slider,87.4,80.5,0.0,36.0,ground_ball,-2.4,54.63,7.0,R,0,0,2,2
+676105,single,COL,LAD,4-Seam Fastball,95.6,108.2,3.0,76.0,ground_ball,-3.16,54.09,8.0,R,3,2,0,6
+622608,single,COL,LAD,Slider,85.1,111.3,18.0,365.0,line_drive,-2.44,54.57,4.0,R,1,1,0,1
+615698,single,COL,LAD,Split-Finger,86.3,96.7,-10.0,13.0,ground_ball,-1.59,53.69,4.0,R,2,1,1,2
+683627,home_run,COL,LAD,Changeup,86.5,103.4,34.0,436.0,fly_ball,-1.64,54.39,2.0,R,3,2,0,6
+683627,single,COL,LAD,Curveball,83.3,111.8,13.0,217.0,line_drive,-1.89,54.29,9.0,R,2,1,1,4
+615698,field_out,COL,LAD,4-Seam Fastball,94.7,101.9,-22.0,8.0,ground_ball,-1.44,54.04,1.0,R,0,0,0,1
+678821,double,COL,LAD,4-Seam Fastball,95.1,102.7,7.0,142.0,ground_ball,2.29,54.27,8.0,L,0,0,0,8
+605397,single,LAD,SD,Curveball,82.2,102.8,5.0,89.0,ground_ball,-1.17,54.41,5.0,R,1,1,0,6
+605397,field_out,LAD,SD,Curveball,83.2,82.7,-35.0,3.0,ground_ball,-1.09,54.59,13.0,R,0,2,2,3
+656945,single,LAD,SD,Slider,86.4,88.3,-8.0,19.0,ground_ball,2.42,54.14,1.0,L,1,0,1,7
+605397,field_out,LAD,SD,4-Seam Fastball,94.8,89.7,8.0,138.0,ground_ball,-1.31,54.65,11.0,R,1,2,0,1
+673513,double,LAD,SD,Slider,85.9,78.0,43.0,229.0,fly_ball,2.04,54.45,7.0,L,0,1,2,8
+656302,double,LAD,SD,Slider,89.7,116.8,21.0,362.0,line_drive,-1.45,54.24,5.0,R,0,0,2,4
+656302,strikeout,LAD,SD,4-Seam Fastball,98.9,,,,,-1.16,54.25,5.0,R,3,2,0,3
+670970,single,LAD,SD,Sinker,96.1,108.6,1.0,63.0,ground_ball,2.07,54.0,1.0,L,2,2,2,6
+656302,walk,LAD,SD,4-Seam Fastball,98.4,,,,,-0.95,54.27,12.0,R,3,0,0,1
+650633,field_out,LAD,SD,Slider,84.8,78.6,35.0,249.0,fly_ball,-3.13,54.49,9.0,R,2,1,1,5
+650633,walk,LAD,SD,Slider,84.6,,,,,-3.2,54.32,9.0,R,3,2,2,2
+656945,strikeout,LAD,SD,4-Seam Fastball,98.6,,,,,2.43,54.24,12.0,L,0,2,2,7
+650633,double,LAD,SD,4-Seam Fastball,93.7,110.4,21.0,301.0,line_drive,-3.15,54.4,3.0,R,0,0,0,1
+622608,field_out,LAD,COL,Changeup,88.0,99.1,-2.0,33.0,ground_ball,-2.4,54.22,6.0,R,1,0,2,5
+622608,single,LAD,COL,4-Seam Fastball,96.4,105.9,-12.0,9.0,ground_ball,-1.98,54.27,7.0,R,3,2,1,3
+677955,single,LAD,COL,Changeup,85.4,88.2,-1.0,29.0,ground_ball,-1.33,53.97,7.0,R,0,0,1,7
+622608,single,LAD,COL,4-Seam Fastball,96.1,91.4,17.0,255.0,line_drive,-1.86,54.41,4.0,R,3,2,0,1
+678020,home_run,LAD,COL,Split-Finger,88.7,114.7,20.0,432.0,line_drive,-2.85,53.64,8.0,R,2,1,0,9
+615698,strikeout,LAD,COL,4-Seam Fastball,94.4,,,,,-1.06,53.68,8.0,R,2,2,2,4
+615698,walk,LAD,COL,Sinker,92.5,,,,,-1.25,54.05,11.0,R,3,0,2,3
+678821,hit_by_pitch,LAD,COL,Curveball,82.1,,,,,2.4,54.54,12.0,L,0,0,1,6
+615698,field_out,LAD,COL,4-Seam Fastball,93.8,102.4,3.0,94.0,ground_ball,-1.28,54.02,11.0,R,2,2,0,1
+678020,single,LAD,COL,4-Seam Fastball,98.4,87.0,24.0,308.0,line_drive,-2.37,53.68,13.0,R,0,0,0,9
+607536,home_run,LAD,COL,4-Seam Fastball,92.1,110.1,27.0,423.0,fly_ball,2.38,53.91,12.0,L,3,2,2,5
+607536,single,LAD,COL,Cutter,87.3,87.6,9.0,135.0,ground_ball,2.47,53.88,7.0,L,3,2,2,3
+677955,single,LAD,COL,Changeup,85.8,92.3,-1.0,38.0,ground_ball,-1.25,53.99,4.0,R,2,2,1,7
+607536,strikeout,LAD,COL,Knuckle Curve,82.4,,,,,2.68,53.9,13.0,L,1,2,0,1
+665795,single,MIA,LAD,Changeup,93.5,97.1,12.0,183.0,line_drive,-1.24,53.64,8.0,R,1,0,2,2
+666277,home_run,MIA,LAD,Slider,85.4,111.2,36.0,438.0,fly_ball,-1.96,54.26,8.0,R,0,1,1,6
+657508,home_run,MIA,LAD,Knuckle Curve,89.1,109.7,27.0,391.0,fly_ball,-2.01,53.95,4.0,R,1,2,2,7
+660644,home_run,MIA,LAD,Other,68.3,113.6,36.0,440.0,fly_ball,-1.95,55.71,2.0,R,2,0,2,9
+685107,double,MIA,LAD,4-Seam Fastball,95.2,105.1,15.0,266.0,line_drive,1.85,54.18,3.0,L,3,2,2,3
+665795,double,MIA,LAD,Changeup,94.8,114.6,20.0,395.0,line_drive,-1.32,53.74,5.0,R,2,2,0,1
+677960,strikeout,MIA,LAD,4-Seam Fastball,96.6,,,,,2.89,54.73,5.0,L,2,2,1,4
+677960,field_out,MIA,LAD,Changeup,86.5,86.6,61.0,171.0,popup,2.96,54.64,6.0,L,1,0,1,3
+675540,field_out,MIA,LAD,Slider,87.7,109.3,18.0,343.0,line_drive,-1.54,54.72,7.0,R,2,2,0,7
+657508,strikeout,MIA,LAD,Knuckle Curve,89.3,,,,,-1.9,54.09,8.0,R,0,2,2,8
+677960,single,MIA,LAD,4-Seam Fastball,95.7,77.1,20.0,206.0,line_drive,2.75,54.75,12.0,L,1,0,0,1
+670766,home_run,MIA,LAD,Sweeper,82.2,105.3,32.0,402.0,fly_ball,-2.61,54.17,14.0,R,1,1,1,3
+669199,strikeout,MIA,LAD,Split-Finger,87.1,,,,,-1.4,54.41,13.0,R,0,2,2,6
+670766,strikeout,MIA,LAD,Sinker,90.0,,,,,-2.58,53.91,8.0,R,3,2,0,1
+622786,field_out,MIA,LAD,Changeup,88.8,73.5,-30.0,3.0,ground_ball,-2.12,54.63,13.0,R,3,2,0,9
+685107,strikeout,MIA,LAD,4-Seam Fastball,96.2,,,,,1.8,54.29,12.0,L,1,2,2,4
+608331,force_out,ATL,LAD,4-Seam Fastball,94.9,104.5,-8.0,19.0,ground_ball,0.88,53.75,1.0,L,0,0,1,5
+608331,walk,ATL,LAD,4-Seam Fastball,95.6,,,,,1.08,53.82,13.0,L,3,0,2,3
+592426,strikeout,ATL,LAD,Slider,88.6,,,,,-1.98,53.81,9.0,R,1,2,1,9
+608331,strikeout,ATL,LAD,Changeup,88.5,,,,,1.64,53.74,9.0,L,3,2,0,1
+607481,fielders_choice,ATL,LAD,Sweeper,81.9,76.0,-7.0,18.0,ground_ball,1.99,54.22,4.0,L,0,0,1,7
+450203,double,ATL,LAD,4-Seam Fastball,94.5,114.4,14.0,267.0,line_drive,-2.76,54.26,9.0,R,0,0,2,5
+450203,strikeout,ATL,LAD,4-Seam Fastball,95.8,,,,,-2.65,54.26,6.0,R,1,2,1,3
+669276,double,ATL,LAD,Slider,86.8,84.9,25.0,280.0,line_drive,1.8,54.29,7.0,L,0,2,2,7
+450203,strikeout,ATL,LAD,Curveball,82.8,,,,,-2.89,54.36,14.0,R,0,2,0,1
+519242,field_out,ATL,LAD,Slider,80.7,38.2,41.0,88.0,ground_ball,2.93,54.09,8.0,L,2,2,2,5
+519242,strikeout,ATL,LAD,4-Seam Fastball,98.4,,,,,2.83,53.73,8.0,L,1,2,1,3
+519242,walk,ATL,LAD,Sinker,96.5,,,,,3.05,53.84,12.0,L,3,1,0,1
+680885,field_out,ATL,LAD,Slider,87.4,98.7,49.0,297.0,fly_ball,-2.22,53.5,5.0,R,0,1,1,5
+680885,strikeout,ATL,LAD,Split-Finger,85.9,,,,,-2.33,53.39,13.0,R,1,2,1,3
+641729,strikeout,ATL,LAD,4-Seam Fastball,94.8,,,,,-2.4,53.28,12.0,R,3,2,1,8
+680885,field_out,ATL,LAD,Cutter,94.1,95.8,39.0,340.0,fly_ball,-2.46,53.64,6.0,R,2,1,0,1
+696136,single,LAD,CHC,Sinker,91.6,111.6,1.0,57.0,ground_ball,2.31,54.13,5.0,L,0,0,2,3
+696136,walk,LAD,CHC,Sinker,93.0,,,,,2.19,54.23,14.0,L,3,2,0,2
+542888,field_out,LAD,CHC,Cutter,90.6,87.2,29.0,326.0,fly_ball,-1.2,54.17,14.0,R,0,1,2,7
+624522,field_out,LAD,CHC,Cutter,89.8,94.9,40.0,326.0,fly_ball,-2.82,54.3,3.0,R,0,0,2,5
+696136,home_run,LAD,CHC,Slider,85.9,118.1,19.0,405.0,line_drive,2.26,54.07,5.0,L,1,2,0,1
+684007,field_out,LAD,CHC,Sweeper,82.6,99.6,33.0,373.0,fly_ball,2.9,54.22,1.0,L,0,1,2,5
+684007,grounded_into_double_play,LAD,CHC,Sweeper,82.1,110.0,0.0,45.0,ground_ball,3.03,54.45,5.0,L,2,1,0,3
+663878,field_out,LAD,CHC,Slider,89.8,95.3,32.0,365.0,fly_ball,-1.17,53.87,6.0,R,0,0,1,8
+684007,field_out,LAD,CHC,4-Seam Fastball,92.7,95.7,59.0,198.0,popup,2.26,54.33,1.0,L,0,0,0,1
+543294,single,LAD,CHC,Curveball,74.4,99.8,20.0,288.0,line_drive,-2.57,55.12,3.0,R,2,1,1,5
+543294,walk,LAD,CHC,Sinker,87.8,,,,,-2.71,55.1,11.0,R,3,0,2,3
+668338,strikeout,LAD,CHC,Curveball,77.7,,,,,-3.74,53.54,14.0,R,1,2,1,8
+543294,field_out,LAD,CHC,Changeup,81.5,64.5,63.0,129.0,popup,-2.67,55.08,11.0,R,1,2,0,1
+592767,single,LAD,CHC,Sinker,92.5,96.5,17.0,283.0,line_drive,1.34,54.7,6.0,L,0,0,0,7
+676440,home_run,LAD,CLE,Changeup,83.6,116.7,34.0,450.0,fly_ball,-1.98,53.98,2.0,R,1,0,1,5
+676440,single,LAD,CLE,Cutter,90.6,72.3,28.0,240.0,fly_ball,-2.2,54.07,3.0,R,3,2,2,3
+676440,field_out,LAD,CLE,Cutter,88.0,96.8,46.0,301.0,fly_ball,-2.22,54.04,6.0,R,3,2,0,1
+671922,strikeout,LAD,CLE,4-Seam Fastball,97.4,,,,,-3.31,53.63,1.0,R,1,2,1,7
+681870,field_out,LAD,CLE,Slider,88.0,101.2,42.0,348.0,fly_ball,1.44,53.62,1.0,L,1,0,2,6
+605130,strikeout,LAD,CLE,Slider,81.3,,,,,-2.19,53.78,14.0,R,3,2,1,4
+658648,field_out,LAD,CLE,4-Seam Fastball,91.0,99.5,3.0,68.0,ground_ball,-0.88,54.27,4.0,R,3,2,2,1
+668909,field_out,LAD,CLE,4-Seam Fastball,99.3,91.1,-38.0,4.0,ground_ball,-2.86,53.42,11.0,R,2,2,0,1
+571510,home_run,LAD,CLE,Sinker,88.8,111.2,38.0,413.0,fly_ball,2.33,54.27,5.0,L,1,0,1,6
+571510,strikeout,LAD,CLE,Slider,79.4,,,,,2.67,54.48,13.0,L,2,2,1,3
+683769,single,LAD,CLE,4-Seam Fastball,95.9,95.4,18.0,288.0,line_drive,-2.73,53.88,3.0,R,0,1,1,8
+571510,field_out,LAD,CLE,Sinker,93.4,99.5,29.0,393.0,fly_ball,2.4,54.47,2.0,L,1,2,0,1
+656288,strikeout,LAA,LAD,Slider,87.8,,,,,-1.55,54.51,14.0,R,2,2,1,6
+656288,field_out,LAA,LAD,Changeup,89.5,95.9,24.0,365.0,fly_ball,-1.62,54.67,13.0,R,2,2,2,3
+519326,field_out,LAA,LAD,4-Seam Fastball,94.8,94.6,73.0,110.0,popup,-2.97,54.66,11.0,R,1,1,0,8
+656288,field_out,LAA,LAD,4-Seam Fastball,94.5,102.1,70.0,149.0,popup,-1.62,54.59,1.0,R,0,0,0,1
+672282,strikeout,LAA,LAD,4-Seam Fastball,94.8,,,,,1.59,54.03,1.0,L,3,2,1,5
+672282,triple,LAA,LAD,Curveball,74.7,112.7,12.0,200.0,line_drive,1.06,54.38,5.0,L,1,2,1,3
+650671,strikeout,LAA,LAD,4-Seam Fastball,95.6,,,,,2.43,54.16,11.0,L,1,2,0,8
+672282,field_out,LAA,LAD,4-Seam Fastball,95.3,83.9,-10.0,16.0,ground_ball,1.44,53.95,1.0,L,2,2,0,1
+593958,walk,AZ,LAD,Sinker,92.3,,,,,1.34,53.81,7.0,L,3,0,2,4
+593958,field_out,AZ,LAD,Slider,84.1,96.5,-11.0,12.0,ground_ball,1.27,53.89,4.0,L,2,2,0,3
+656756,single,AZ,LAD,Sinker,92.0,99.6,14.0,219.0,line_drive,1.55,53.77,14.0,L,1,0,1,7
+677944,walk,AZ,LAD,Curveball,78.3,,,,,-1.92,53.96,14.0,R,3,2,2,8
+623149,strikeout,AZ,LAD,Sweeper,84.1,,,,,-3.76,54.12,13.0,R,2,2,2,9
+593958,single,AZ,LAD,Sinker,91.8,117.2,11.0,250.0,line_drive,1.3,54.07,6.0,L,2,1,0,1
+694297,field_out,AZ,LAD,Sweeper,86.1,91.7,69.0,161.0,popup,-3.38,53.98,5.0,R,0,0,0,5
+694297,strikeout,AZ,LAD,4-Seam Fastball,95.2,,,,,-2.89,53.81,12.0,R,2,2,0,3
+573009,strikeout,AZ,LAD,Sinker,88.9,,,,,3.33,54.0,7.0,L,3,2,2,6
+694297,strikeout,AZ,LAD,Changeup,87.9,,,,,-3.26,53.88,13.0,R,0,2,0,1
+518876,field_out,AZ,LAD,Changeup,89.0,94.0,-14.0,8.0,ground_ball,-1.93,54.52,8.0,R,2,2,0,4
+518876,sac_fly,AZ,LAD,Cutter,92.5,89.7,32.0,330.0,fly_ball,-1.85,54.44,6.0,R,0,1,0,2
+640462,strikeout,AZ,LAD,Sinker,94.0,,,,,3.26,53.2,8.0,L,3,2,0,8
+679885,field_out,AZ,LAD,Split-Finger,91.2,113.5,13.0,281.0,line_drive,-2.46,54.14,5.0,R,3,2,2,9
+518876,home_run,AZ,LAD,Curveball,84.7,108.9,35.0,420.0,fly_ball,-1.78,54.47,5.0,R,3,2,0,1
+573009,field_out,AZ,LAD,Sinker,88.3,107.7,-5.0,21.0,ground_ball,3.31,54.28,9.0,L,0,2,1,6
+668678,strikeout,AZ,LAD,Knuckle Curve,81.0,,,,,-2.96,54.02,8.0,R,3,2,0,4
+668678,hit_by_pitch,AZ,LAD,4-Seam Fastball,94.6,,,,,-2.64,53.88,12.0,R,0,0,0,2
+623149,home_run,AZ,LAD,4-Seam Fastball,93.0,99.0,32.0,380.0,fly_ball,-3.64,54.15,5.0,R,0,2,2,8
+573009,strikeout,AZ,LAD,Curveball,78.6,,,,,3.27,54.07,14.0,L,2,2,2,6
+668678,double,AZ,LAD,4-Seam Fastball,94.3,114.0,15.0,300.0,line_drive,-2.93,54.38,5.0,R,0,0,0,1
+700249,field_out,LAD,BAL,Sweeper,79.6,85.8,39.0,293.0,fly_ball,1.76,54.3,13.0,L,1,0,0,4
+700249,strikeout,LAD,BAL,Sinker,91.2,,,,,1.75,54.21,4.0,L,0,2,2,2
+621199,field_out,LAD,BAL,Cutter,90.6,104.7,39.0,348.0,fly_ball,-4.01,54.05,1.0,R,2,0,0,8
+642397,field_out,LAD,BAL,Sinker,94.0,101.2,53.0,263.0,fly_ball,2.11,54.03,2.0,L,3,1,0,6
+700249,field_out,LAD,BAL,Sweeper,82.2,104.6,19.0,375.0,line_drive,2.1,54.29,4.0,L,1,2,0,1
+669203,force_out,LAD,BAL,Cutter,93.7,108.0,6.0,118.0,line_drive,-0.83,54.07,9.0,R,2,2,0,5
+669203,single,LAD,BAL,Changeup,89.2,99.9,13.0,198.0,line_drive,-0.91,53.96,7.0,R,2,2,1,3
+642397,strikeout,LAD,BAL,Sinker,96.2,,,,,1.79,53.91,4.0,L,1,2,2,7
+669203,home_run,LAD,BAL,Slider,87.4,102.2,33.0,391.0,fly_ball,-0.81,54.13,4.0,R,1,2,0,1
+608344,field_out,LAD,BAL,Curveball,78.7,84.3,76.0,42.0,popup,1.3,54.37,5.0,L,1,0,0,5
+608344,single,LAD,BAL,Sinker,92.2,99.4,-12.0,10.0,ground_ball,1.0,54.29,6.0,L,0,0,2,3
+672335,strikeout,LAD,BAL,Sinker,95.3,,,,,1.17,54.73,1.0,L,2,2,0,8
+608344,single,LAD,BAL,Sinker,90.1,85.9,23.0,281.0,line_drive,1.17,54.25,12.0,L,0,0,0,1
+682052,field_out,LAD,TB,4-Seam Fastball,90.6,107.2,14.0,310.0,line_drive,3.43,53.47,5.0,L,0,1,2,5
+682052,strikeout,LAD,TB,Slider,78.6,,,,,3.52,54.07,13.0,L,0,2,2,3
+663992,hit_by_pitch,LAD,TB,Sinker,91.8,,,,,2.38,53.29,12.0,L,2,1,0,8
+682052,field_out,LAD,TB,4-Seam Fastball,91.0,97.9,33.0,360.0,fly_ball,3.32,53.53,4.0,L,0,0,0,1
+671737,home_run,LAD,TB,Split-Finger,92.2,96.7,32.0,338.0,fly_ball,-1.55,54.07,7.0,R,2,1,1,5
+671737,catcher_interf,LAD,TB,4-Seam Fastball,98.9,,,,,-1.35,54.06,1.0,R,1,2,0,4
+669270,field_out,LAD,TB,4-Seam Fastball,94.6,93.4,43.0,304.0,fly_ball,-1.74,53.72,4.0,R,2,1,1,7
+664076,field_out,LAD,TB,Sweeper,79.6,99.4,42.0,350.0,fly_ball,1.06,54.7,12.0,L,1,1,0,10
+671737,single,LAD,TB,Split-Finger,92.2,96.3,14.0,198.0,line_drive,-1.63,53.97,8.0,R,1,1,0,1
+641302,single,LAD,TB,Sinker,89.3,57.6,-3.0,24.0,ground_ball,1.63,54.35,12.0,L,0,1,0,4
+621363,home_run,LAD,TB,Slider,84.3,105.1,35.0,389.0,fly_ball,0.91,53.42,7.0,L,0,0,2,9
+641302,field_out,LAD,TB,Sinker,90.2,92.1,9.0,126.0,line_drive,1.69,54.43,9.0,L,2,1,0,1
+664076,field_out,LAD,TB,Sinker,97.1,81.4,-24.0,5.0,ground_ball,1.02,54.53,6.0,L,1,0,2,7
+663992,field_out,LAD,TB,Sinker,92.6,111.8,-2.0,38.0,ground_ball,2.37,53.22,14.0,L,1,0,1,5
+669302,single,LAD,SEA,Cutter,94.2,97.8,17.0,266.0,line_drive,-1.56,52.92,5.0,R,3,1,1,5
+669302,walk,LAD,SEA,Curveball,84.0,,,,,-1.73,53.3,13.0,R,3,1,2,3
+663423,field_out,LAD,SEA,Slider,85.7,79.4,54.0,199.0,fly_ball,-2.34,54.08,6.0,R,0,0,0,6
+700187,field_out,LAD,SEA,Sweeper,84.4,89.7,-10.0,6.0,ground_ball,-1.55,54.9,14.0,R,1,2,1,8
+669302,strikeout,LAD,SEA,Slider,92.5,,,,,-1.62,53.14,6.0,R,1,2,0,1
+682243,field_out,LAD,SEA,Cutter,91.3,81.7,-15.0,11.0,ground_ball,-1.46,54.48,3.0,R,2,1,2,4
+682243,triple,LAD,SEA,Split-Finger,87.1,109.8,13.0,275.0,line_drive,-1.49,54.27,7.0,R,2,2,1,3
+608723,single,LAD,SEA,Cutter,89.8,115.5,19.0,364.0,line_drive,-2.58,54.22,9.0,R,2,2,2,8
+682243,strikeout,LAD,SEA,Split-Finger,85.5,,,,,-1.52,54.43,13.0,R,2,2,0,1
+662253,field_out,LAD,SEA,Slider,86.5,100.1,9.0,154.0,line_drive,-1.61,53.78,7.0,R,1,1,1,7
+693433,field_out,LAD,SEA,Changeup,89.3,83.5,7.0,88.0,ground_ball,-1.51,53.88,7.0,R,0,1,0,6
+693433,field_out,LAD,SEA,4-Seam Fastball,94.9,89.2,50.0,258.0,fly_ball,-1.2,54.03,2.0,R,0,1,1,3
+642048,walk,LAD,SEA,Sinker,91.0,,,,,2.02,53.76,13.0,L,3,2,2,7
+693433,single,LAD,SEA,Sinker,95.1,75.9,2.0,65.0,ground_ball,-1.24,53.88,2.0,R,2,2,0,1
+543243,home_run,STL,LAD,Curveball,79.7,113.5,22.0,396.0,fly_ball,-0.6,53.85,5.0,R,0,0,1,5
+543243,field_out,STL,LAD,Cutter,89.5,85.1,63.0,196.0,popup,-0.77,53.89,2.0,R,1,1,0,3
+669461,strikeout,STL,LAD,Sinker,96.6,,,,,0.43,54.0,4.0,L,3,2,0,7
+667463,field_out,STL,LAD,Sinker,94.5,103.0,-6.0,18.0,ground_ball,1.88,54.64,14.0,L,0,1,1,9
+543243,strikeout,STL,LAD,Sweeper,84.2,,,,,-0.76,53.76,14.0,R,1,2,0,1
+669467,home_run,STL,LAD,Knuckle Curve,80.3,111.9,21.0,384.0,line_drive,-1.45,53.92,5.0,R,1,1,2,5
+669467,strikeout,STL,LAD,Knuckle Curve,81.0,,,,,-1.45,53.71,13.0,R,0,2,0,3
+668941,field_out,STL,LAD,Slider,85.2,82.4,46.0,241.0,fly_ball,1.92,55.08,7.0,L,1,2,1,8
+669467,walk,STL,LAD,4-Seam Fastball,94.9,,,,,-1.8,53.77,11.0,R,3,2,0,1
+571945,field_out,STL,LAD,Changeup,86.6,82.5,49.0,255.0,fly_ball,-2.99,53.9,7.0,R,2,1,2,5
+571945,field_out,STL,LAD,Slider,89.3,106.8,9.0,161.0,line_drive,-2.81,54.06,6.0,R,0,0,2,2
+571945,strikeout,STL,LAD,Slider,87.2,,,,,-2.98,53.84,1.0,R,3,2,0,1
+668941,strikeout,STL,LAD,Slider,85.3,,,,,1.79,55.11,13.0,L,3,2,1,9
+669461,field_out,STL,LAD,Sinker,95.4,84.9,2.0,59.0,ground_ball,0.65,54.26,2.0,L,2,2,2,6
+668964,single,MIL,LAD,Cutter,89.7,108.6,2.0,71.0,ground_ball,-1.2,53.81,7.0,R,2,2,0,5
+668964,field_out,MIL,LAD,Cutter,89.9,93.9,-30.0,3.0,ground_ball,-1.06,53.93,8.0,R,0,0,0,3
+642207,strikeout,MIL,LAD,4-Seam Fastball,95.8,,,,,-2.36,53.19,1.0,R,3,2,2,9
+668964,field_out,MIL,LAD,Cutter,89.1,98.3,57.0,241.0,fly_ball,-1.13,53.86,4.0,R,2,2,0,1
+665625,field_out,MIL,LAD,Sinker,96.1,85.6,25.0,314.0,line_drive,-2.75,53.3,8.0,R,0,0,2,6
+593423,field_out,MIL,LAD,4-Seam Fastball,96.9,101.3,20.0,320.0,line_drive,-0.69,54.2,5.0,R,0,1,2,4
+593423,walk,MIL,LAD,Cutter,91.5,,,,,-1.0,54.41,4.0,R,3,2,1,2
+657649,strikeout,MIL,LAD,Sinker,96.7,,,,,2.67,54.31,5.0,L,0,2,0,7
+593423,field_error,MIL,LAD,4-Seam Fastball,97.5,101.0,-1.0,40.0,ground_ball,-0.89,54.25,8.0,R,0,2,0,1
+642207,field_out,MIL,LAD,4-Seam Fastball,95.1,95.5,47.0,292.0,fly_ball,-2.31,53.14,1.0,R,0,1,0,9
+607067,field_out,MIL,LAD,Sinker,91.5,92.1,-26.0,4.0,ground_ball,-1.97,53.67,8.0,R,2,2,1,6
+607067,strikeout,MIL,LAD,Sweeper,81.6,,,,,-2.06,53.91,13.0,R,1,2,1,4
+607067,home_run,MIL,LAD,Split-Finger,88.2,109.3,24.0,413.0,fly_ball,-1.92,53.74,5.0,R,1,0,2,3
+683232,strikeout,MIL,LAD,4-Seam Fastball,97.1,,,,,-1.45,53.76,2.0,R,0,2,2,8
+607067,field_out,MIL,LAD,Sinker,91.7,104.9,48.0,300.0,fly_ball,-2.17,54.03,4.0,R,0,0,0,1
+642547,home_run,MIL,LAD,4-Seam Fastball,93.2,107.0,36.0,424.0,fly_ball,-2.92,53.78,11.0,R,3,0,0,5
+642547,field_out,MIL,LAD,4-Seam Fastball,96.1,31.7,31.0,60.0,ground_ball,-2.55,53.75,11.0,R,3,2,1,3
+663542,walk,MIL,LAD,Sweeper,82.0,,,,,3.48,52.97,13.0,L,3,2,2,7
+642547,field_out,MIL,LAD,4-Seam Fastball,92.9,93.0,25.0,348.0,line_drive,-2.37,53.77,6.0,R,1,0,0,1
+663559,field_out,LAD,PIT,Sinker,93.9,86.7,3.0,63.0,ground_ball,1.29,53.4,12.0,L,1,2,1,4
+663559,field_out,LAD,PIT,Sinker,93.0,76.2,32.0,276.0,fly_ball,1.22,53.37,12.0,L,0,1,1,2
+670280,field_out,LAD,PIT,4-Seam Fastball,97.9,75.1,58.0,174.0,popup,-1.87,53.91,11.0,R,1,2,1,10
+656222,triple,LAD,PIT,Cutter,84.4,99.2,12.0,171.0,line_drive,0.93,54.43,4.0,L,3,2,2,6
+547973,field_out,LAD,PIT,Slider,90.7,88.6,69.0,125.0,popup,0.38,53.12,8.0,L,0,1,1,8
+663559,field_out,LAD,PIT,4-Seam Fastball,91.5,82.7,55.0,214.0,fly_ball,1.17,53.51,3.0,L,0,0,0,1
+694973,strikeout,LAD,PIT,Curveball,83.5,,,,,-2.63,54.32,5.0,R,2,2,1,5
+694973,strikeout,LAD,PIT,Split-Finger,93.5,,,,,-2.64,54.01,13.0,R,2,2,0,3
+694973,field_out,LAD,PIT,Split-Finger,94.1,86.1,-8.0,10.0,ground_ball,-2.85,53.85,8.0,R,0,1,0,1
+656605,field_out,LAD,PIT,4-Seam Fastball,94.0,84.0,57.0,198.0,fly_ball,-1.83,54.19,2.0,R,0,1,1,4
+656605,home_run,LAD,PIT,Slider,88.4,113.9,30.0,448.0,fly_ball,-1.85,54.15,9.0,R,1,2,1,3
+593334,field_out,LAD,PIT,4-Seam Fastball,91.1,97.7,18.0,333.0,line_drive,-1.33,54.61,11.0,R,2,2,1,6
+656605,strikeout,LAD,PIT,4-Seam Fastball,96.7,,,,,-1.93,54.25,12.0,R,0,2,0,1
+663969,field_out,LAD,PHI,4-Seam Fastball,92.1,56.3,41.0,170.0,popup,-1.22,54.42,12.0,R,1,2,1,4
+663969,field_out,LAD,PHI,4-Seam Fastball,92.9,94.4,-3.0,34.0,ground_ball,-1.01,54.45,3.0,R,0,1,0,2
+628708,field_out,LAD,PHI,Slider,85.3,98.2,77.0,109.0,popup,-1.67,54.49,5.0,R,1,0,1,9
+621237,force_out,LAD,PHI,Cutter,94.1,67.5,-32.0,3.0,ground_ball,1.02,53.89,13.0,L,0,1,0,7
+663969,field_out,LAD,PHI,Curveball,81.0,70.4,-39.0,2.0,ground_ball,-1.21,54.12,9.0,R,0,1,0,1
+650911,field_out,LAD,PHI,Sinker,93.1,72.3,19.0,165.0,line_drive,1.89,53.49,12.0,L,0,0,2,5
+650911,field_out,LAD,PHI,Sinker,93.7,89.5,45.0,271.0,fly_ball,1.74,53.58,5.0,L,2,2,0,3
+621381,field_out,LAD,PHI,Slider,82.8,84.2,46.0,259.0,fly_ball,3.45,54.5,1.0,L,3,2,2,7
+650911,field_out,LAD,PHI,Sinker,93.0,106.8,-12.0,9.0,ground_ball,1.87,53.53,9.0,L,0,0,0,1
+605400,double,LAD,PHI,4-Seam Fastball,92.9,117.1,11.0,213.0,line_drive,-1.6,53.63,5.0,R,3,0,1,5
+605400,sac_fly,LAD,PHI,4-Seam Fastball,94.1,113.1,47.0,364.0,fly_ball,-1.71,53.69,5.0,R,0,0,0,3
+621383,home_run,LAD,PHI,Changeup,86.3,107.4,37.0,384.0,fly_ball,2.58,54.67,5.0,L,1,0,0,8
+605400,field_out,LAD,PHI,4-Seam Fastball,93.3,94.1,78.0,88.0,popup,-1.65,53.55,6.0,R,2,1,0,1
+674370,field_out,OAK,LAD,Slider,84.9,89.2,34.0,315.0,fly_ball,-2.43,54.41,8.0,R,2,2,0,5
+674370,field_out,OAK,LAD,Changeup,90.3,90.4,48.0,282.0,fly_ball,-2.3,54.0,7.0,R,0,2,1,2
+671305,strikeout,OAK,LAD,Slider,86.0,,,,,-1.32,54.0,9.0,R,3,2,1,7
+674370,strikeout,OAK,LAD,4-Seam Fastball,94.4,,,,,-2.42,54.24,7.0,R,2,2,0,1
+687765,single,OAK,LAD,Cutter,91.2,103.0,-9.0,13.0,ground_ball,-2.56,54.09,6.0,R,2,0,2,5
+687765,strikeout,OAK,LAD,Curveball,83.6,,,,,-2.28,54.09,14.0,R,1,2,1,3
+666205,strikeout,OAK,LAD,4-Seam Fastball,93.7,,,,,1.31,53.75,5.0,L,3,2,2,9
+518397,strikeout,OAK,LAD,Sinker,93.0,,,,,1.33,54.35,4.0,L,3,2,1,7
+687765,walk,OAK,LAD,Slider,84.4,,,,,-3.19,54.51,11.0,R,3,1,0,1
+666205,single,OAK,LAD,Slider,85.1,106.2,-6.0,16.0,ground_ball,1.49,54.23,7.0,L,1,1,0,9
+683155,field_out,OAK,LAD,4-Seam Fastball,94.8,69.4,50.0,195.0,popup,-2.2,54.24,12.0,R,1,2,1,6
+683155,field_out,OAK,LAD,4-Seam Fastball,92.7,105.5,37.0,372.0,fly_ball,-2.24,54.34,5.0,R,0,1,1,3
+621053,home_run,OAK,LAD,4-Seam Fastball,93.4,116.3,25.0,405.0,fly_ball,-3.39,54.46,2.0,R,1,1,2,9
+613534,field_out,OAK,LAD,Slider,88.0,76.9,-18.0,9.0,ground_ball,-3.76,54.63,1.0,R,1,2,2,7
+683155,field_out,OAK,LAD,4-Seam Fastball,93.5,103.4,42.0,361.0,fly_ball,-2.05,54.38,11.0,R,0,0,0,1
+656302,field_out,SD,LAD,4-Seam Fastball,97.4,96.4,-3.0,32.0,ground_ball,-0.97,54.02,5.0,R,3,1,2,5
+656302,walk,SD,LAD,4-Seam Fastball,99.2,,,,,-1.06,54.13,12.0,R,3,2,1,3
+656302,field_out,SD,LAD,Knuckle Curve,82.3,61.0,-30.0,3.0,ground_ball,-0.88,54.33,5.0,R,3,2,0,1
+592094,field_out,SD,LAD,Changeup,89.8,88.2,12.0,164.0,line_drive,-1.14,54.15,11.0,R,0,1,1,8
+663362,field_out,SD,LAD,Cutter,86.6,99.8,41.0,332.0,fly_ball,-1.25,53.72,6.0,R,2,0,1,2
+669093,strikeout,SD,LAD,Split-Finger,83.3,,,,,-1.03,53.36,8.0,R,3,2,1,9
+670970,field_out,SD,LAD,Slider,86.4,106.0,18.0,329.0,line_drive,2.92,54.14,4.0,L,2,2,0,7
+663362,walk,SD,LAD,Sinker,91.2,,,,,-1.33,53.7,14.0,R,3,1,0,1
+673513,strikeout,SD,LAD,Slider,87.0,,,,,2.11,54.67,13.0,L,1,2,0,5
+681293,field_out,HOU,LAD,Curveball,79.1,95.2,49.0,281.0,fly_ball,-2.09,53.46,6.0,R,0,0,2,5
+681293,strikeout,HOU,LAD,4-Seam Fastball,95.7,,,,,-2.05,53.47,11.0,R,1,2,1,3
+681293,field_out,HOU,LAD,Cutter,88.7,104.6,41.0,357.0,fly_ball,-2.3,53.55,5.0,R,2,2,0,1
+606160,walk,HOU,LAD,4-Seam Fastball,96.0,,,,,-1.34,54.03,12.0,R,3,1,0,9
+687911,strikeout,HOU,LAD,4-Seam Fastball,93.8,,,,,2.51,53.88,13.0,L,0,2,2,7
+669854,walk,HOU,LAD,Changeup,86.7,,,,,-0.97,53.61,14.0,R,3,1,0,5
+669854,home_run,HOU,LAD,4-Seam Fastball,92.0,118.7,29.0,461.0,fly_ball,-0.64,53.26,5.0,R,2,1,0,3
+605463,walk,HOU,LAD,4-Seam Fastball,94.1,,,,,-3.88,54.71,11.0,R,3,2,2,8
+681869,single,HOU,LAD,Curveball,82.2,91.0,0.0,44.0,ground_ball,-1.93,54.08,14.0,R,0,0,1,6
+669854,field_out,HOU,LAD,Slider,88.4,97.9,33.0,366.0,fly_ball,-1.11,54.17,7.0,R,3,2,0,1
+664285,walk,HOU,LAD,Curveball,81.3,,,,,0.63,54.96,13.0,L,3,2,1,6
+664285,field_out,HOU,LAD,Slider,87.8,99.8,20.0,335.0,line_drive,0.64,54.79,4.0,L,2,2,2,3
+519151,single,HOU,LAD,4-Seam Fastball,95.5,113.5,-3.0,24.0,ground_ball,-0.45,54.02,8.0,R,0,1,0,8
+664285,double,HOU,LAD,Sinker,95.4,97.7,18.0,282.0,line_drive,0.8,54.65,6.0,L,0,0,0,1
+657277,double,LAD,SF,Sinker,93.2,94.9,9.0,159.0,line_drive,-1.53,53.77,3.0,R,1,0,2,4
+657277,field_out,LAD,SF,Sinker,93.3,107.5,-13.0,10.0,ground_ball,-1.52,53.74,4.0,R,0,1,2,2
+643511,home_run,LAD,SF,Slider,74.7,112.6,46.0,360.0,fly_ball,-3.95,54.43,6.0,R,0,0,1,8
+663546,field_out,LAD,SF,Cutter,92.2,91.5,39.0,322.0,fly_ball,-1.43,53.84,2.0,R,2,2,0,6
+657277,walk,LAD,SF,4-Seam Fastball,90.9,,,,,-1.5,53.6,12.0,R,3,1,0,1
+592662,strikeout,LAD,SF,4-Seam Fastball,95.5,,,,,2.69,54.32,12.0,L,2,2,2,5
+592662,strikeout,LAD,SF,4-Seam Fastball,93.1,,,,,2.41,54.48,12.0,L,1,2,2,2
+669062,strikeout,LAD,SF,Changeup,85.0,,,,,1.86,53.98,8.0,L,2,2,0,8
+592662,field_out,LAD,SF,4-Seam Fastball,94.4,102.0,36.0,351.0,fly_ball,2.55,54.26,5.0,L,0,0,0,1
+663855,double,LAD,SF,Sweeper,82.7,105.1,23.0,329.0,fly_ball,-2.04,54.17,6.0,R,1,1,2,4
+663855,strikeout,LAD,SF,4-Seam Fastball,93.5,,,,,-1.89,53.84,12.0,R,2,2,0,3
+678495,single,LAD,SF,4-Seam Fastball,99.2,114.2,10.0,250.0,line_drive,-1.15,53.88,8.0,R,2,2,2,8
+573124,strikeout,LAD,SF,Sweeper,79.3,,,,,2.08,54.89,7.0,L,1,2,1,6
+663855,strikeout,LAD,SF,Split-Finger,86.0,,,,,-2.03,53.84,14.0,R,2,2,0,1
+605483,field_out,LAD,SF,Curveball,82.1,89.0,-28.0,4.0,ground_ball,1.97,53.68,8.0,L,0,1,0,6
+605483,strikeout,LAD,SF,Curveball,83.1,,,,,1.85,53.8,13.0,L,1,2,1,3
+605483,walk,LAD,SF,Slider,91.5,,,,,1.89,53.86,13.0,L,3,2,0,1
+669062,strikeout,LAD,SF,Changeup,85.4,,,,,1.74,54.1,14.0,L,1,2,0,8
+676710,home_run,LAD,BOS,Cutter,85.9,116.7,28.0,473.0,fly_ball,-1.35,54.8,5.0,R,2,1,0,5
+676710,field_out,LAD,BOS,4-Seam Fastball,92.2,98.0,45.0,307.0,fly_ball,-1.23,54.34,6.0,R,1,2,0,3
+502624,walk,LAD,BOS,4-Seam Fastball,95.4,,,,,-0.96,54.78,11.0,R,3,2,2,7
+676710,strikeout,LAD,BOS,4-Seam Fastball,92.6,,,,,-1.38,54.72,11.0,R,0,2,0,1
+678394,double,LAD,BOS,Slider,87.9,112.7,7.0,200.0,line_drive,-2.13,54.19,5.0,R,2,1,0,6
+678394,field_out,LAD,BOS,Changeup,88.5,84.7,72.0,119.0,popup,-1.88,54.18,7.0,R,1,1,1,3
+592155,field_out,LAD,BOS,4-Seam Fastball,95.6,94.1,65.0,163.0,popup,2.49,54.08,1.0,L,1,2,2,7
+678394,field_out,LAD,BOS,Slider,86.8,92.0,-19.0,7.0,ground_ball,-2.03,54.6,5.0,R,0,1,0,1
+601713,strikeout,LAD,BOS,Cutter,89.5,,,,,-2.14,53.62,1.0,R,1,2,0,6
+601713,strikeout,LAD,BOS,4-Seam Fastball,95.1,,,,,-1.46,53.64,11.0,R,1,2,1,3
+601713,strikeout,LAD,BOS,4-Seam Fastball,94.6,,,,,-1.75,53.73,11.0,R,2,2,0,1
+657514,double,LAD,BOS,Sinker,91.0,89.6,30.0,282.0,fly_ball,2.96,54.71,5.0,L,0,0,1,8
+628317,single,DET,LAD,Split-Finger,86.8,108.5,7.0,156.0,ground_ball,-1.9,54.36,4.0,R,2,1,2,5
+663947,field_out,DET,LAD,Sinker,91.8,108.1,17.0,328.0,line_drive,1.64,54.01,6.0,L,2,0,0,3
+605177,single,DET,LAD,4-Seam Fastball,94.2,97.2,12.0,210.0,line_drive,1.83,53.97,1.0,L,0,1,2,8
+689225,field_out,DET,LAD,4-Seam Fastball,95.6,111.3,20.0,381.0,line_drive,-1.67,54.25,8.0,R,0,0,0,1
+672456,home_run,DET,LAD,Changeup,85.5,107.8,24.0,373.0,fly_ball,-2.64,54.09,5.0,R,1,0,0,5
+672456,strikeout,DET,LAD,Knuckle Curve,79.7,,,,,-2.76,54.17,5.0,R,2,2,0,3
+666214,force_out,DET,LAD,Cutter,87.2,93.5,-4.0,24.0,ground_ball,1.2,54.19,7.0,L,0,1,0,6
+605177,walk,DET,LAD,Slider,83.5,,,,,2.18,54.03,13.0,L,3,1,0,8
+672456,triple,DET,LAD,Changeup,86.8,91.5,15.0,208.0,line_drive,-2.73,54.05,4.0,R,0,1,0,1
+669373,field_out,DET,LAD,Sinker,96.6,95.4,26.0,314.0,fly_ball,1.66,54.16,9.0,L,1,1,2,5
+669373,field_out,DET,LAD,Slider,90.3,99.4,53.0,241.0,fly_ball,2.03,54.17,2.0,L,2,2,2,3
+689225,strikeout,DET,LAD,Changeup,88.6,,,,,-1.36,54.4,13.0,R,3,2,1,8
+663947,double,DET,LAD,Sinker,94.3,107.3,24.0,402.0,fly_ball,1.78,54.27,3.0,L,1,0,2,9
+669373,field_out,DET,LAD,Sinker,97.5,92.4,1.0,57.0,ground_ball,1.7,54.32,2.0,L,2,2,0,1
+605400,strikeout,PHI,LAD,4-Seam Fastball,94.5,,,,,-1.63,53.76,2.0,R,1,2,0,5
+605400,strikeout,PHI,LAD,Knuckle Curve,79.0,,,,,-1.67,54.01,14.0,R,1,2,1,2
+621381,field_out,PHI,LAD,Slider,81.1,81.4,1.0,45.0,ground_ball,3.41,54.16,4.0,L,1,1,2,7
+605400,field_out,PHI,LAD,4-Seam Fastball,94.3,91.5,45.0,278.0,fly_ball,-1.64,53.52,11.0,R,2,2,0,1
+650911,single,PHI,LAD,Sinker,95.2,89.8,16.0,229.0,line_drive,1.91,53.57,14.0,L,0,1,1,5
+650911,field_out,PHI,LAD,Sinker,94.7,70.9,-14.0,9.0,ground_ball,1.86,53.48,14.0,L,3,2,2,3
+621381,strikeout,PHI,LAD,Slider,83.4,,,,,3.58,54.28,13.0,L,1,2,1,7
+650911,single,PHI,LAD,Sinker,94.0,92.5,7.0,108.0,ground_ball,2.04,54.13,6.0,L,0,0,0,1
+554430,walk,PHI,LAD,4-Seam Fastball,96.3,,,,,-1.94,53.4,11.0,R,3,0,2,5
+554430,single,PHI,LAD,Cutter,91.5,68.5,46.0,206.0,fly_ball,-2.03,53.41,2.0,R,0,1,1,3
+554430,strikeout,PHI,LAD,4-Seam Fastball,97.6,,,,,-1.95,53.05,12.0,R,0,2,0,1
+572971,field_out,LAD,MIL,Sinker,89.5,95.4,-28.0,5.0,ground_ball,1.34,55.0,5.0,L,3,2,2,4
+572971,single,LAD,MIL,Sinker,88.7,109.2,11.0,209.0,line_drive,1.73,54.79,1.0,L,3,2,1,3
+596001,strikeout,LAD,MIL,Sinker,94.1,,,,,-1.83,54.39,6.0,R,0,2,1,6
+572971,field_out,LAD,MIL,Sinker,87.3,85.6,-32.0,5.0,ground_ball,1.77,54.87,1.0,L,3,2,0,1
+656730,strikeout,LAD,MIL,Knuckle Curve,87.4,,,,,-0.36,53.95,14.0,R,0,2,0,9
+642547,walk,LAD,MIL,4-Seam Fastball,97.3,,,,,-2.6,53.96,11.0,R,3,2,1,4
+642547,hit_by_pitch,LAD,MIL,Slider,82.2,,,,,-2.7,53.9,14.0,R,1,2,2,2
+669060,triple,LAD,MIL,Cutter,90.5,100.6,24.0,377.0,fly_ball,-2.77,54.13,6.0,R,1,2,2,6
+663542,home_run,LAD,MIL,Cutter,86.1,109.9,23.0,430.0,fly_ball,3.25,53.36,9.0,L,0,1,1,8
+642547,walk,LAD,MIL,4-Seam Fastball,95.7,,,,,-2.63,54.28,13.0,R,3,2,0,1
+650644,strikeout,LAD,MIL,Sinker,92.9,,,,,-1.26,54.97,12.0,R,2,2,2,4
+650644,strikeout,LAD,MIL,Cutter,88.9,,,,,-0.93,54.76,1.0,R,3,2,0,3
+665625,field_out,LAD,MIL,Sinker,97.9,80.4,-39.0,3.0,ground_ball,-2.67,53.33,8.0,R,1,1,1,8
+663542,field_out,LAD,MIL,Sweeper,84.5,97.3,15.0,277.0,line_drive,3.3,52.97,11.0,L,1,2,1,7
+650644,strikeout,LAD,MIL,Sweeper,79.3,,,,,-1.24,54.87,7.0,R,2,2,0,1
+668678,strikeout,LAD,AZ,4-Seam Fastball,94.4,,,,,-2.44,53.75,2.0,R,1,2,2,4
+668678,strikeout,LAD,AZ,Knuckle Curve,79.8,,,,,-2.7,53.91,14.0,R,1,2,0,3
+679885,strikeout,LAD,AZ,Split-Finger,89.3,,,,,-2.58,53.67,9.0,R,3,2,0,7
+668678,walk,LAD,AZ,4-Seam Fastball,97.6,,,,,-2.58,53.96,13.0,R,3,2,0,1
+691441,strikeout,LAD,AZ,Curveball,87.7,,,,,-1.52,53.83,14.0,R,3,2,1,2
+686826,field_out,LAD,AZ,Slider,86.5,110.2,18.0,318.0,line_drive,-2.58,54.8,8.0,R,0,2,2,4
+573009,field_out,LAD,AZ,Curveball,78.9,94.1,47.0,275.0,fly_ball,3.49,54.18,9.0,L,2,1,1,7
+691441,single,LAD,AZ,Changeup,92.6,87.3,-2.0,34.0,ground_ball,-1.95,53.81,13.0,R,1,1,0,1
+669194,single,LAD,AZ,Cutter,90.5,72.0,26.0,228.0,fly_ball,-1.97,54.23,12.0,R,2,1,1,5
+669194,strikeout,LAD,AZ,4-Seam Fastball,95.7,,,,,-2.01,54.03,3.0,R,2,2,0,3
+679885,home_run,LAD,AZ,Slider,89.7,112.0,37.0,433.0,fly_ball,-2.97,53.7,3.0,R,1,0,0,7
+623149,strikeout,LAD,AZ,4-Seam Fastball,92.8,,,,,-3.63,54.22,3.0,R,1,2,1,9
+573009,double,LAD,AZ,Sinker,88.0,96.3,27.0,311.0,fly_ball,3.41,54.27,6.0,L,1,1,0,1
+702352,strikeout,SF,LAD,Sweeper,82.2,,,,,-1.77,54.45,14.0,R,0,2,2,5
+702352,strikeout,SF,LAD,4-Seam Fastball,95.0,,,,,-1.94,54.09,3.0,R,2,2,2,3
+694738,field_out,SF,LAD,Changeup,87.9,93.2,52.0,264.0,fly_ball,-2.27,53.95,5.0,R,1,1,0,8
+643511,strikeout,SF,LAD,Slider,73.6,,,,,-3.73,54.38,5.0,R,1,2,2,9
+702352,field_out,SF,LAD,Cutter,91.1,93.8,1.0,52.0,ground_ball,-1.95,54.34,3.0,R,1,1,0,1
+675921,walk,SF,LAD,4-Seam Fastball,93.6,,,,,-2.7,54.02,11.0,R,3,1,2,4
+675921,home_run,SF,LAD,Slider,85.6,109.7,35.0,412.0,fly_ball,-2.49,53.97,2.0,R,1,2,1,3
+573124,field_out,SF,LAD,Sinker,92.9,84.6,42.0,259.0,fly_ball,1.94,54.57,5.0,L,1,2,2,6
+669062,strikeout,SF,LAD,Slider,82.9,,,,,1.05,54.04,4.0,L,3,2,0,1
+666808,strikeout,SF,LAD,Slider,90.1,,,,,-1.49,54.17,14.0,R,0,2,0,9
+657277,field_out,SF,LAD,Sinker,93.1,107.1,-19.0,8.0,ground_ball,-1.55,53.43,5.0,R,2,2,1,3
+643511,single,SF,LAD,Sinker,82.6,68.7,15.0,120.0,ground_ball,-3.8,54.23,12.0,R,0,2,0,8
+657277,strikeout,SF,LAD,Sinker,94.5,,,,,-1.68,53.34,11.0,R,0,2,0,1
+607200,field_out,CWS,LAD,Cutter,88.7,72.3,70.0,101.0,popup,-1.29,53.73,3.0,R,0,0,0,5
+607200,walk,CWS,LAD,Changeup,88.8,,,,,-1.42,53.46,13.0,R,3,0,0,3
+647336,walk,CWS,LAD,4-Seam Fastball,95.8,,,,,-2.56,54.46,14.0,R,3,2,2,7
+607200,home_run,CWS,LAD,Cutter,90.9,113.9,26.0,437.0,fly_ball,-1.26,53.89,1.0,R,3,2,0,1
+623167,single,CWS,LAD,Cutter,89.6,109.5,-9.0,8.0,ground_ball,-0.19,53.89,14.0,R,0,1,2,4
+623167,walk,CWS,LAD,4-Seam Fastball,93.5,,,,,-0.3,53.95,7.0,R,3,2,0,3
+605154,strikeout,CWS,LAD,4-Seam Fastball,95.4,,,,,-1.84,53.87,3.0,R,1,2,1,9
+621383,strikeout,CWS,LAD,Sinker,93.3,,,,,2.38,54.43,3.0,L,3,2,2,6
+623167,home_run,CWS,LAD,Curveball,72.9,93.8,31.0,376.0,fly_ball,-0.19,54.21,4.0,R,2,2,0,1
+676979,strikeout,CWS,LAD,4-Seam Fastball,98.9,,,,,2.81,53.14,5.0,L,1,2,2,5
+676979,field_out,CWS,LAD,Sweeper,85.0,76.2,-11.0,9.0,ground_ball,2.46,53.51,7.0,L,0,1,1,3
+656629,sac_fly,CWS,LAD,Cutter,90.5,96.9,37.0,336.0,fly_ball,-2.64,54.16,2.0,R,0,0,1,9
+621383,walk,CWS,LAD,Slider,88.8,,,,,2.78,54.42,11.0,L,3,0,2,7
+676979,strikeout,CWS,LAD,Cutter,91.2,,,,,2.71,53.62,2.0,L,2,2,0,1
+668676,home_run,LAD,LAA,Slider,84.9,115.5,24.0,459.0,fly_ball,0.0,54.26,8.0,R,2,0,0,3
+672710,field_out,LAD,LAA,Changeup,88.1,81.1,-7.0,16.0,ground_ball,-0.81,53.95,13.0,R,0,0,2,8
+668968,field_out,LAD,LAA,Changeup,87.3,87.8,-6.0,13.0,ground_ball,-0.99,55.22,7.0,R,2,2,0,6
+608334,walk,LAD,LAA,4-Seam Fastball,93.6,,,,,-2.42,54.17,14.0,R,3,0,1,4
+668676,field_out,LAD,LAA,Changeup,85.2,80.4,24.0,270.0,line_drive,-0.16,54.17,13.0,R,1,2,0,1
+663776,walk,LAD,LAA,Sinker,89.3,,,,,1.21,54.29,12.0,L,3,2,1,3
+519043,home_run,LAD,LAA,4-Seam Fastball,91.1,113.1,27.0,455.0,fly_ball,0.94,54.49,5.0,L,1,1,2,5
+663776,walk,LAD,LAA,Slider,89.1,,,,,1.23,54.28,7.0,L,3,2,0,1
+472610,single,LAD,LAA,Split-Finger,87.5,94.5,4.0,68.0,line_drive,-2.09,53.98,5.0,R,1,0,1,8
+621389,strikeout,COL,LAD,Changeup,81.1,,,,,2.88,55.29,7.0,L,3,2,1,4
+621389,walk,COL,LAD,Changeup,81.5,,,,,3.26,55.46,12.0,L,3,1,2,2
+683627,field_out,COL,LAD,Changeup,82.7,95.4,38.0,378.0,fly_ball,-1.93,54.14,7.0,R,2,2,0,6
+621389,home_run,COL,LAD,Sinker,89.1,101.5,29.0,427.0,fly_ball,3.02,55.26,5.0,L,2,1,0,1
+663372,field_out,COL,LAD,4-Seam Fastball,95.3,106.4,-10.0,15.0,ground_ball,-1.35,54.05,2.0,R,0,1,2,4
+663372,double,COL,LAD,4-Seam Fastball,96.5,108.5,12.0,265.0,line_drive,-1.47,53.98,2.0,R,1,1,2,2
+656234,strikeout,COL,LAD,Slider,86.1,,,,,-2.5,54.33,8.0,R,0,2,2,8
+683232,single,COL,LAD,Curveball,82.9,104.3,13.0,222.0,line_drive,-1.34,53.74,9.0,R,1,2,2,6
+663372,field_out,COL,LAD,4-Seam Fastball,94.7,93.4,64.0,206.0,fly_ball,-1.15,54.22,2.0,R,0,0,0,1
+596295,home_run,COL,LAD,Slider,83.9,113.0,30.0,476.0,fly_ball,2.23,53.79,6.0,L,2,0,0,6
+596295,field_out,COL,LAD,Knuckle Curve,76.4,73.8,6.0,79.0,ground_ball,2.09,53.92,12.0,L,0,0,1,3
+656222,field_out,COL,LAD,4-Seam Fastball,94.4,111.7,17.0,371.0,line_drive,0.65,53.89,2.0,L,3,1,2,7
+596295,field_out,COL,LAD,Slider,86.2,97.7,-21.0,6.0,ground_ball,2.04,53.41,4.0,L,3,2,0,1
+680767,single,COL,LAD,Changeup,91.3,115.3,-3.0,29.0,ground_ball,-2.58,53.72,5.0,R,1,1,1,9
+615698,double,COL,LAD,Split-Finger,85.3,100.2,18.0,311.0,line_drive,-1.46,54.07,4.0,R,1,2,1,4
+615698,single,COL,LAD,Split-Finger,85.2,107.3,-4.0,28.0,ground_ball,-1.44,53.86,5.0,R,3,2,2,2
+664875,field_out,COL,LAD,Sinker,94.6,104.0,-15.0,9.0,ground_ball,-2.3,54.22,5.0,R,1,1,0,9
+664129,walk,COL,LAD,Sinker,96.4,,,,,-3.03,53.81,9.0,R,3,2,0,8
+656234,double,COL,LAD,Sinker,95.1,104.3,11.0,232.0,line_drive,-2.23,54.36,5.0,R,2,0,1,6
+615698,field_out,COL,LAD,4-Seam Fastball,95.6,107.8,-10.0,12.0,ground_ball,-1.54,54.04,5.0,R,2,2,0,1
+663903,home_run,LAD,KC,Slider,79.7,110.7,39.0,400.0,fly_ball,-1.53,53.65,9.0,R,0,0,0,6
+663903,home_run,LAD,KC,Sinker,92.5,114.3,27.0,451.0,fly_ball,-1.48,53.32,8.0,R,2,1,1,3
+663903,walk,LAD,KC,Sinker,93.2,,,,,-1.41,53.38,13.0,R,3,2,1,1
+672582,field_out,LAD,KC,Slider,86.9,91.8,24.0,346.0,line_drive,2.72,55.11,4.0,L,1,1,2,7
+607625,field_out,LAD,KC,4-Seam Fastball,93.7,98.5,-17.0,8.0,ground_ball,-1.34,54.39,5.0,R,3,2,1,5
+607625,field_out,LAD,KC,Curveball,82.5,100.0,8.0,130.0,ground_ball,-1.29,54.77,6.0,R,1,0,2,3
+607625,grounded_into_double_play,LAD,KC,4-Seam Fastball,91.9,104.0,-5.0,24.0,ground_ball,-1.29,54.41,4.0,R,0,0,0,1
+669674,walk,LAD,KC,4-Seam Fastball,93.4,,,,,1.54,54.35,13.0,L,3,0,2,7
+666142,single,LAD,KC,Cutter,91.9,87.0,18.0,261.0,line_drive,1.06,54.13,7.0,L,2,1,0,6
+666142,single,LAD,KC,Slider,86.5,105.8,3.0,79.0,ground_ball,1.11,54.37,9.0,L,2,2,1,4
+519293,field_out,LAD,KC,Slider,83.0,83.4,56.0,195.0,popup,1.47,54.67,4.0,L,2,2,1,8
+666142,field_out,LAD,KC,4-Seam Fastball,98.0,99.4,-3.0,24.0,ground_ball,0.86,54.28,8.0,L,0,1,1,1
+547179,field_out,LAD,TEX,Cutter,91.1,96.1,-13.0,11.0,ground_ball,-1.65,54.61,2.0,R,1,0,1,6
+547179,field_out,LAD,TEX,Sinker,95.2,98.0,17.0,286.0,line_drive,-1.56,54.58,5.0,R,2,2,2,3
+502085,strikeout,LAD,TEX,Knuckle Curve,87.5,,,,,-2.71,53.98,14.0,R,0,2,1,8
+547179,field_out,LAD,TEX,Changeup,85.8,92.3,-6.0,19.0,ground_ball,-1.55,54.76,13.0,R,0,1,1,1
+592351,field_out,LAD,TEX,Changeup,89.2,112.5,15.0,321.0,line_drive,-1.65,53.92,4.0,R,1,0,0,3
+656641,field_out,LAD,TEX,4-Seam Fastball,94.1,104.4,58.0,228.0,fly_ball,1.71,53.75,2.0,L,1,2,2,5
+592351,home_run,LAD,TEX,Slider,89.8,105.2,26.0,424.0,fly_ball,-1.75,54.05,5.0,R,3,2,1,1
+502085,strikeout,LAD,TEX,Knuckle Curve,85.8,,,,,-2.63,53.9,14.0,R,0,2,1,8
+641540,walk,LAD,TEX,Cutter,86.9,,,,,-2.32,53.31,13.0,R,3,1,1,3
+622786,hit_by_pitch,LAD,TEX,Slider,86.2,,,,,-1.96,54.18,14.0,R,1,2,1,7
+681982,home_run,LAD,TEX,4-Seam Fastball,92.2,114.2,23.0,433.0,fly_ball,-2.65,54.46,2.0,R,2,2,1,6
+641540,walk,LAD,TEX,Changeup,85.3,,,,,-2.04,53.56,14.0,R,3,2,1,1
+642546,strikeout,LAD,TEX,Slider,85.6,,,,,-1.65,54.18,14.0,R,1,2,2,4
+661563,field_out,NYY,LAD,Changeup,92.4,94.7,37.0,337.0,fly_ball,-3.04,53.37,1.0,R,0,1,2,5
+661563,field_out,NYY,LAD,Changeup,93.5,95.2,24.0,342.0,line_drive,-2.8,53.55,8.0,R,2,1,2,3
+661563,field_out,NYY,LAD,4-Seam Fastball,97.7,79.2,48.0,245.0,fly_ball,-2.66,53.78,3.0,R,1,1,1,1
+596133,double,NYY,LAD,4-Seam Fastball,97.1,60.3,14.0,104.0,ground_ball,-1.54,54.49,12.0,R,1,2,0,8
+641482,field_out,NYY,LAD,Sweeper,77.7,78.2,64.0,156.0,popup,2.75,54.84,13.0,L,0,2,0,6
+641482,single,NYY,LAD,4-Seam Fastball,95.1,99.3,10.0,213.0,line_drive,0.51,54.22,11.0,L,2,2,1,3
+642701,walk,NYY,LAD,Cutter,92.5,,,,,-2.43,54.31,14.0,R,3,0,2,9
+641482,strikeout,NYY,LAD,Cutter,88.5,,,,,1.4,54.65,4.0,L,3,2,1,1
+592454,fielders_choice,NYY,LAD,4-Seam Fastball,95.5,73.1,3.0,59.0,ground_ball,-1.92,54.13,3.0,R,1,2,0,8
+547001,field_out,NYY,LAD,Sinker,93.4,112.8,16.0,359.0,line_drive,-1.31,54.53,8.0,R,0,0,2,3
+641656,field_out,NYY,LAD,Slider,90.8,107.8,5.0,109.0,ground_ball,-2.72,54.62,14.0,R,1,1,2,10
+547001,field_out,NYY,LAD,Sinker,94.3,98.1,-30.0,4.0,ground_ball,-1.42,54.83,13.0,R,3,2,1,1
+657571,field_out,NYY,LAD,4-Seam Fastball,95.7,98.7,40.0,325.0,fly_ball,2.12,53.84,1.0,L,1,2,0,8
+624647,field_out,NYY,LAD,Slider,86.5,80.4,-3.0,20.0,ground_ball,2.45,54.28,7.0,L,0,1,2,5
+663559,strikeout,PIT,LAD,Slider,85.9,,,,,1.44,53.39,11.0,L,1,2,1,4
+663559,strikeout,PIT,LAD,Slider,85.3,,,,,1.26,53.4,7.0,L,0,2,1,2
+693312,strikeout,PIT,LAD,Slider,93.7,,,,,-1.48,53.79,13.0,R,0,2,1,7
+621294,field_out,PIT,LAD,Cutter,89.4,106.4,-3.0,28.0,ground_ball,-1.95,53.97,14.0,R,0,0,1,5
+669387,force_out,PIT,LAD,Slider,88.7,103.1,1.0,50.0,ground_ball,-2.63,54.11,14.0,R,1,2,1,9
+663559,single,PIT,LAD,Slider,83.8,84.7,19.0,265.0,line_drive,1.28,53.38,11.0,L,1,2,0,1
+694973,single,PIT,LAD,4-Seam Fastball,98.1,107.6,4.0,92.0,ground_ball,-2.48,54.11,2.0,R,1,1,1,5
+694973,home_run,PIT,LAD,4-Seam Fastball,100.1,105.6,32.0,415.0,fly_ball,-2.59,54.05,2.0,R,3,2,2,3
+694973,strikeout,PIT,LAD,4-Seam Fastball,100.8,,,,,-2.4,54.26,4.0,R,0,2,1,1
+547973,strikeout,PIT,LAD,Sinker,103.0,,,,,0.49,53.04,12.0,L,1,2,1,7
+670059,field_out,PIT,LAD,Cutter,93.9,100.9,46.0,315.0,fly_ball,-1.76,54.15,3.0,R,3,2,2,8
+683003,strikeout,PIT,LAD,Slider,88.7,,,,,-1.53,53.8,2.0,R,3,2,1,5
+683003,grounded_into_double_play,PIT,LAD,Changeup,90.4,101.7,-11.0,15.0,ground_ball,-1.77,54.01,11.0,R,2,1,0,3
+683003,strikeout,PIT,LAD,4-Seam Fastball,101.0,,,,,-1.51,53.58,11.0,R,1,2,1,1
+547973,single,PIT,LAD,Split-Finger,91.8,100.1,-10.0,6.0,ground_ball,0.77,52.81,14.0,L,2,2,0,8
+663567,catcher_interf,LAD,COL,4-Seam Fastball,94.1,,,,,-1.66,54.17,2.0,R,0,0,2,6
+596295,strikeout,LAD,COL,Knuckle Curve,77.0,,,,,1.91,53.76,3.0,L,3,2,2,2
+663567,strikeout,LAD,COL,Changeup,88.1,,,,,-1.7,54.09,13.0,R,1,2,1,4
+596295,field_out,LAD,COL,Slider,83.9,76.7,50.0,214.0,fly_ball,2.22,53.98,7.0,L,1,1,0,1
+615698,strikeout,LAD,COL,4-Seam Fastball,94.7,,,,,-1.45,53.88,4.0,R,3,2,0,5
+615698,walk,LAD,COL,Curveball,81.2,,,,,-1.15,54.06,12.0,R,3,2,1,3
+615698,field_out,LAD,COL,Split-Finger,86.8,94.2,59.0,219.0,fly_ball,-1.44,53.87,4.0,R,1,2,1,1
+642028,single,LAD,COL,4-Seam Fastball,89.9,113.1,0.0,54.0,ground_ball,2.54,54.35,5.0,L,1,0,0,7
+641712,strikeout,LAD,COL,Curveball,81.2,,,,,-2.67,54.56,14.0,R,3,2,1,6
+641712,field_out,LAD,COL,Curveball,80.7,92.3,11.0,162.0,line_drive,-2.47,54.54,4.0,R,2,2,0,4
+680767,walk,LAD,COL,4-Seam Fastball,99.9,,,,,-1.56,53.36,14.0,R,3,2,2,8
+641712,field_out,LAD,COL,Sinker,91.0,105.0,-10.0,10.0,ground_ball,-2.15,54.14,8.0,R,1,0,1,1
+656849,single,NYM,LAD,Sinker,91.4,114.1,-5.0,21.0,ground_ball,2.36,53.26,14.0,L,0,1,1,5
+656849,field_out,NYM,LAD,Changeup,85.6,96.5,-11.0,14.0,ground_ball,2.36,53.19,5.0,L,0,2,1,3
+605347,home_run,NYM,LAD,Sinker,95.9,103.0,34.0,380.0,fly_ball,-1.53,54.05,4.0,R,0,2,2,8
+656849,field_out,NYM,LAD,4-Seam Fastball,96.5,100.8,24.0,333.0,fly_ball,2.37,53.19,5.0,L,1,2,1,1
+518617,strikeout,NYM,LAD,Sinker,96.3,,,,,3.87,54.02,12.0,L,1,2,1,7
+656731,field_out,NYM,LAD,Cutter,90.6,60.4,-20.0,8.0,ground_ball,-1.49,53.0,12.0,R,0,1,0,6
+656731,field_out,NYM,LAD,Cutter,90.8,60.6,-44.0,4.0,ground_ball,-1.66,53.2,2.0,R,1,1,1,3
+656731,strikeout,NYM,LAD,Slider,86.1,,,,,-1.43,53.16,14.0,R,0,2,1,1
+518617,force_out,NYM,LAD,4-Seam Fastball,97.8,88.5,-30.0,3.0,ground_ball,4.09,53.86,8.0,L,2,2,1,8
+605347,strikeout,NYM,LAD,Slider,86.2,,,,,-1.74,54.21,11.0,R,0,2,0,10
+686730,single,CIN,LAD,Changeup,86.2,113.5,8.0,162.0,line_drive,-1.51,53.83,5.0,R,2,1,1,9
+607259,field_out,CIN,LAD,Changeup,80.6,87.3,-18.0,6.0,ground_ball,-1.65,54.66,13.0,R,2,2,0,4
+686730,strikeout,CIN,LAD,Sweeper,83.6,,,,,-1.85,53.8,14.0,R,2,2,2,6
+608718,field_out,CIN,LAD,Slider,79.3,82.0,-5.0,24.0,ground_ball,3.46,53.69,5.0,L,0,0,0,1
+668881,triple,CIN,LAD,Split-Finger,87.3,102.1,-2.0,32.0,ground_ball,-1.8,53.71,8.0,R,1,1,1,6
+668881,strikeout,CIN,LAD,Split-Finger,88.0,,,,,-1.76,53.83,8.0,R,0,2,2,3
+668881,strikeout,CIN,LAD,Split-Finger,87.4,,,,,-1.77,53.81,8.0,R,0,2,0,1
+594580,strikeout,CIN,LAD,Sweeper,82.4,,,,,2.43,55.77,14.0,L,1,2,2,8
+668933,field_out,CIN,LAD,Sinker,95.7,93.0,-38.0,3.0,ground_ball,-0.17,55.08,4.0,R,0,2,2,4
+668933,field_out,CIN,LAD,Changeup,91.4,97.4,-24.0,5.0,ground_ball,-0.61,55.03,13.0,R,0,0,1,2
+608371,field_out,CIN,LAD,4-Seam Fastball,94.9,85.2,67.0,131.0,popup,-1.3,54.75,6.0,R,0,0,1,8
+594580,field_out,CIN,LAD,Sweeper,82.7,65.5,51.0,181.0,popup,2.51,55.83,7.0,L,0,1,2,6
+668933,force_out,CIN,LAD,Cutter,96.4,87.6,-2.0,34.0,ground_ball,-0.19,55.12,6.0,R,0,0,0,1
+669194,field_out,LAD,AZ,Cutter,90.5,102.3,39.0,349.0,fly_ball,-1.98,53.71,3.0,R,0,0,0,5
+669194,field_out,LAD,AZ,4-Seam Fastball,96.3,101.1,2.0,61.0,ground_ball,-1.63,53.55,6.0,R,2,2,1,3
+676714,single,LAD,AZ,Slider,83.6,73.0,15.0,157.0,line_drive,2.69,53.95,11.0,L,0,0,1,1
+573009,field_out,LAD,AZ,Sinker,89.2,94.7,-15.0,10.0,ground_ball,3.54,54.44,12.0,L,0,0,2,7
+694297,single,LAD,AZ,Changeup,87.0,102.6,0.0,41.0,ground_ball,-2.09,53.5,8.0,R,2,0,1,6
+694297,double,LAD,AZ,4-Seam Fastball,95.0,94.2,14.0,235.0,line_drive,-1.66,53.77,5.0,R,0,0,0,4
+694297,strikeout,LAD,AZ,Sweeper,84.6,,,,,-2.04,53.46,14.0,R,3,2,0,1
+573009,field_out,LAD,AZ,Curveball,77.4,107.0,46.0,329.0,fly_ball,3.48,54.58,12.0,L,0,0,1,8
+677944,field_out,LAD,AZ,4-Seam Fastball,93.2,103.5,40.0,345.0,fly_ball,-2.21,53.86,5.0,R,0,0,0,5
+677944,walk,LAD,AZ,4-Seam Fastball,93.7,,,,,-2.04,53.77,9.0,R,3,1,0,3
+686826,field_out,LAD,AZ,4-Seam Fastball,94.1,114.1,6.0,130.0,line_drive,-2.47,54.54,2.0,R,0,0,0,8
+573009,field_error,LAD,AZ,Sinker,90.2,44.3,-57.0,2.0,ground_ball,3.36,54.22,6.0,L,0,0,1,1
+668881,hit_by_pitch,LAD,CIN,Slider,88.3,,,,,-2.19,54.34,14.0,R,0,2,2,5
+668881,field_out,LAD,CIN,Split-Finger,86.1,90.6,41.0,296.0,fly_ball,-1.76,53.82,1.0,R,1,1,2,3
+664747,single,LAD,CIN,4-Seam Fastball,94.0,100.3,11.0,164.0,line_drive,-1.91,53.05,9.0,R,1,2,2,10
+668881,strikeout,LAD,CIN,4-Seam Fastball,98.8,,,,,-1.75,54.06,11.0,R,1,2,1,1
+594580,single,LAD,CIN,Sweeper,81.7,80.6,-1.0,35.0,ground_ball,2.42,55.72,13.0,L,2,2,0,8
+668933,field_out,LAD,CIN,Slider,87.4,98.9,57.0,238.0,fly_ball,-0.46,54.74,9.0,R,1,2,1,5
+668933,field_out,LAD,CIN,Cutter,96.4,78.8,-39.0,4.0,ground_ball,-0.13,55.06,3.0,R,1,2,2,3
+686730,field_out,LAD,CIN,Changeup,86.8,100.7,2.0,60.0,ground_ball,-1.78,53.92,8.0,R,1,1,2,7
+668933,field_out,LAD,CIN,Cutter,97.9,72.7,-10.0,17.0,ground_ball,0.03,55.15,3.0,R,3,2,0,1
+593423,strikeout,LAD,CIN,Split-Finger,86.0,,,,,-1.41,54.72,13.0,R,3,2,2,4
+593423,home_run,LAD,CIN,4-Seam Fastball,95.3,104.5,28.0,368.0,fly_ball,-1.56,54.51,4.0,R,0,0,1,3
+518585,force_out,LAD,CIN,Split-Finger,82.2,100.5,-3.0,38.0,ground_ball,-0.89,53.68,1.0,R,1,2,1,7
+593423,field_out,LAD,CIN,4-Seam Fastball,96.2,107.3,-1.0,42.0,ground_ball,-1.44,54.53,6.0,R,2,2,0,1
+607259,strikeout,LAD,CIN,Changeup,80.8,,,,,-1.6,54.57,13.0,R,1,2,1,6
+607259,field_out,LAD,CIN,Changeup,82.8,85.9,81.0,38.0,popup,-1.56,54.62,1.0,R,2,2,2,3
+608718,walk,LAD,CIN,Slider,78.7,,,,,3.4,53.35,14.0,L,3,2,1,1
+657277,single,SF,LAD,Sinker,91.9,103.1,-11.0,12.0,ground_ball,-1.08,53.48,5.0,R,0,1,2,5
+657277,strikeout,SF,LAD,Sweeper,83.3,,,,,-1.43,53.62,8.0,R,1,2,0,3
+666808,single,SF,LAD,Cutter,101.0,95.7,13.0,256.0,line_drive,-1.46,54.12,7.0,R,2,2,2,9
+657277,walk,SF,LAD,Sinker,93.4,,,,,-1.3,53.61,12.0,R,3,2,0,1
+669062,strikeout,SF,LAD,4-Seam Fastball,99.3,,,,,0.64,53.83,11.0,L,1,2,2,7
+676775,single,SF,LAD,Sinker,92.3,109.4,10.0,281.0,line_drive,-1.12,54.31,8.0,R,0,1,0,5
+676775,home_run,SF,LAD,Slider,88.7,113.4,29.0,446.0,fly_ball,-1.47,54.44,5.0,R,0,0,0,4
+678495,double,SF,LAD,4-Seam Fastball,97.6,90.4,15.0,236.0,line_drive,-1.75,53.74,2.0,R,1,0,0,7
+687014,field_out,SF,LAD,Cutter,88.5,100.8,4.0,77.0,ground_ball,-1.81,54.15,4.0,R,1,2,0,9
+676775,field_out,SF,LAD,4-Seam Fastball,97.6,85.5,53.0,246.0,fly_ball,-1.16,54.32,12.0,R,2,1,1,1
+663855,single,SF,LAD,Sinker,98.6,86.8,-46.0,2.0,ground_ball,-1.37,53.71,7.0,R,3,2,2,5
+663855,force_out,SF,LAD,Sinker,95.2,109.5,-11.0,15.0,ground_ball,-1.49,53.84,1.0,R,2,2,1,3
+669062,strikeout,SF,LAD,Slider,83.9,,,,,0.91,53.88,13.0,L,3,2,1,7
+663855,single,SF,LAD,Sinker,95.0,106.0,12.0,194.0,line_drive,-1.61,53.85,9.0,R,0,0,0,1
+573124,strikeout,SF,LAD,Sweeper,78.8,,,,,1.75,55.05,6.0,L,2,2,0,10
+663362,walk,SD,LAD,Knuckleball,75.2,,,,,-1.19,53.97,14.0,R,3,2,1,6
+663362,field_out,SD,LAD,Knuckleball,80.8,100.0,36.0,350.0,fly_ball,-1.86,53.77,4.0,R,1,1,2,3
+666745,field_out,SD,LAD,Sinker,96.5,68.4,-57.0,2.0,ground_ball,-1.12,54.13,2.0,R,1,0,1,7
+663362,field_out,SD,LAD,4-Seam Fastball,92.7,88.6,32.0,303.0,fly_ball,-1.45,53.64,12.0,R,2,2,1,1
+650633,field_out,SD,LAD,Changeup,85.9,72.2,2.0,47.0,ground_ball,-3.01,54.46,13.0,R,1,1,0,6
+650633,single,SD,LAD,Sinker,92.6,78.9,26.0,247.0,line_drive,-3.02,54.41,4.0,R,0,1,1,3
+650633,strikeout,SD,LAD,Sinker,93.6,,,,,-3.22,54.55,1.0,R,1,2,1,1
+673513,double,SD,LAD,Slider,87.1,107.2,13.0,299.0,line_drive,2.07,54.67,7.0,L,1,1,0,8
+677960,field_out,LAD,MIA,Sinker,97.1,105.0,14.0,284.0,line_drive,3.15,54.53,5.0,L,3,2,1,6
+677960,strikeout,LAD,MIA,Sweeper,84.5,,,,,3.07,54.63,13.0,L,1,2,2,3
+677053,field_out,LAD,MIA,4-Seam Fastball,95.1,91.3,57.0,220.0,fly_ball,2.9,53.7,11.0,L,2,2,1,8
+677960,strikeout,LAD,MIA,4-Seam Fastball,95.7,,,,,3.08,54.74,4.0,L,3,2,1,1
+665795,walk,LAD,MIA,4-Seam Fastball,94.9,,,,,-1.45,53.46,14.0,R,3,2,2,2
+666277,field_out,LAD,MIA,Changeup,87.9,112.8,17.0,342.0,line_drive,-1.52,53.88,8.0,R,1,0,0,4
+572143,field_out,LAD,MIA,Cutter,88.5,97.3,47.0,272.0,fly_ball,-2.87,53.72,6.0,R,0,1,2,6
+665795,walk,LAD,MIA,Changeup,94.0,,,,,-1.35,53.63,13.0,R,3,1,1,1
+682610,single,LAD,MIA,Changeup,89.4,101.2,4.0,84.0,ground_ball,-0.91,54.28,8.0,R,1,1,1,4
+682610,strikeout,LAD,MIA,Sinker,95.7,,,,,-1.19,54.33,3.0,R,1,2,1,2
+681871,walk,LAD,MIA,Slider,83.1,,,,,-2.4,54.16,13.0,R,3,2,1,6
+682610,home_run,LAD,MIA,4-Seam Fastball,96.1,107.6,27.0,441.0,fly_ball,-1.35,54.68,1.0,R,2,2,0,1
+608331,single,LAD,ATL,Slider,83.4,75.0,16.0,203.0,line_drive,1.62,54.27,13.0,L,1,2,0,6
+608331,single,LAD,ATL,4-Seam Fastball,98.4,97.4,-9.0,14.0,ground_ball,0.93,54.06,4.0,L,2,2,2,3
+608331,home_run,LAD,ATL,Curveball,74.6,104.3,31.0,412.0,fly_ball,1.31,54.15,3.0,L,1,2,0,1
+621345,home_run,LAD,ATL,4-Seam Fastball,93.8,110.6,26.0,464.0,fly_ball,2.29,54.22,5.0,L,0,0,0,8
+693821,single,LAD,ATL,Sinker,90.3,95.0,11.0,214.0,line_drive,-0.8,54.56,11.0,R,2,1,1,4
+693821,home_run,LAD,ATL,4-Seam Fastball,90.2,103.4,34.0,392.0,fly_ball,-0.63,54.71,3.0,R,0,1,0,3
+669276,field_out,LAD,ATL,4-Seam Fastball,93.9,97.6,30.0,349.0,fly_ball,1.43,54.12,3.0,L,2,2,1,6
+693821,strikeout,LAD,ATL,Slider,83.4,,,,,-0.74,54.59,9.0,R,0,2,1,1
+623451,single,LAD,ATL,Sinker,91.1,93.7,18.0,288.0,line_drive,-1.13,54.75,5.0,R,0,0,2,7
+450203,strikeout,LAD,ATL,4-Seam Fastball,94.1,,,,,-2.35,54.18,2.0,R,1,2,1,5
+450203,walk,LAD,ATL,4-Seam Fastball,94.7,,,,,-2.36,54.19,13.0,R,3,2,1,3
+621345,walk,LAD,ATL,4-Seam Fastball,94.3,,,,,2.18,54.14,13.0,L,3,1,1,8
+450203,field_out,LAD,ATL,4-Seam Fastball,96.6,92.5,-37.0,4.0,ground_ball,-2.45,54.43,5.0,R,3,2,1,1
+628452,single,LAD,ATL,Changeup,88.5,84.9,8.0,149.0,ground_ball,-1.9,54.56,13.0,R,1,2,1,10
+686826,strikeout,AZ,LAD,Slider,88.3,,,,,-2.66,54.59,8.0,R,1,2,0,4
+676714,single,AZ,LAD,Slider,82.9,77.8,-2.0,36.0,ground_ball,2.82,54.06,1.0,L,3,2,1,1
+543518,force_out,AZ,LAD,4-Seam Fastball,93.7,84.5,-16.0,11.0,ground_ball,-1.41,54.61,1.0,R,3,1,0,10
+657044,strikeout,AZ,LAD,4-Seam Fastball,91.0,,,,,-3.51,53.84,2.0,R,2,2,2,7
+573009,strikeout,AZ,LAD,Sinker,89.1,,,,,3.41,54.05,7.0,L,3,2,1,5
+674072,grounded_into_double_play,AZ,LAD,Curveball,77.1,106.7,-17.0,7.0,ground_ball,1.45,54.12,8.0,L,0,0,1,2
+663531,single,AZ,LAD,4-Seam Fastball,90.5,107.7,12.0,253.0,line_drive,1.52,54.47,2.0,L,0,1,0,8
+674072,single,AZ,LAD,Curveball,80.0,102.0,4.0,142.0,ground_ball,1.48,54.05,7.0,L,3,2,1,1
+685314,walk,AZ,LAD,Sinker,90.5,,,,,1.45,54.63,11.0,L,3,1,1,5
+663531,field_out,AZ,LAD,Sweeper,83.1,79.3,5.0,78.0,ground_ball,1.93,54.52,7.0,L,0,1,0,6
+592332,strikeout,TOR,LAD,4-Seam Fastball,96.4,,,,,-2.2,53.85,9.0,R,2,2,1,6
+592332,field_out,TOR,LAD,4-Seam Fastball,91.7,66.1,17.0,151.0,line_drive,-2.07,54.06,12.0,R,0,0,0,4
+554340,field_out,TOR,LAD,4-Seam Fastball,97.1,82.4,61.0,163.0,popup,-2.08,54.12,12.0,R,0,1,0,8
+592332,field_out,TOR,LAD,Split-Finger,83.2,106.6,22.0,401.0,fly_ball,-2.51,53.92,9.0,R,3,2,1,1
+579328,strikeout,TOR,LAD,Curveball,82.1,,,,,2.15,53.59,8.0,L,2,2,1,4
+579328,single,TOR,LAD,4-Seam Fastball,98.2,119.2,6.0,153.0,line_drive,2.65,53.66,6.0,L,2,2,2,2
+605447,field_out,TOR,LAD,Slider,85.3,102.6,34.0,370.0,fly_ball,-1.88,53.48,5.0,R,3,1,1,9
+579328,field_out,TOR,LAD,4-Seam Fastball,97.3,108.7,-3.0,31.0,ground_ball,2.52,53.68,6.0,L,1,2,0,1
+650893,field_error,TOR,LAD,Cutter,89.7,76.7,-13.0,9.0,ground_ball,2.14,54.62,9.0,L,0,0,1,7
+605135,walk,TOR,LAD,Sinker,92.9,,,,,-1.75,54.13,11.0,R,3,1,0,3
+663893,field_out,TOR,LAD,Knuckle Curve,87.0,48.0,14.0,65.0,ground_ball,1.33,54.86,13.0,L,2,2,1,5
+670950,field_out,TOR,LAD,Changeup,78.6,73.6,-14.0,9.0,ground_ball,-2.32,54.39,7.0,R,2,2,2,3
+605135,home_run,TOR,LAD,Slider,83.2,96.1,37.0,360.0,fly_ball,-1.53,54.32,6.0,R,1,1,1,1
+641835,field_out,TOR,LAD,Sinker,91.7,112.8,1.0,73.0,ground_ball,1.4,53.96,2.0,L,2,0,0,7
+669022,grounded_into_double_play,WSH,LAD,Cutter,92.5,89.5,1.0,50.0,ground_ball,1.6,53.44,7.0,L,0,0,1,5
+669022,strikeout,WSH,LAD,4-Seam Fastball,97.4,,,,,1.73,53.39,13.0,L,2,2,0,3
+607179,field_out,WSH,LAD,4-Seam Fastball,95.8,53.0,27.0,131.0,line_drive,-1.85,54.0,12.0,R,3,2,0,8
+669022,strikeout,WSH,LAD,4-Seam Fastball,98.3,,,,,1.91,53.66,12.0,L,0,2,1,1
+663623,field_out,WSH,LAD,Cutter,89.3,99.4,27.0,381.0,fly_ball,-2.34,53.32,12.0,R,0,1,1,4
+663623,grounded_into_double_play,WSH,LAD,Cutter,90.5,96.3,4.0,77.0,ground_ball,-2.33,53.4,12.0,R,1,1,1,2
+598264,double,WSH,LAD,4-Seam Fastball,92.8,101.9,29.0,386.0,fly_ball,-1.64,53.54,1.0,R,1,1,2,9
+663432,double,WSH,LAD,4-Seam Fastball,93.9,105.7,11.0,250.0,line_drive,-3.07,54.26,4.0,R,1,2,1,8
+571882,strikeout,WSH,LAD,Slider,87.2,,,,,-1.0,53.88,14.0,R,1,2,1,6
+663623,double,WSH,LAD,4-Seam Fastball,96.7,115.6,13.0,323.0,line_drive,-2.28,53.3,2.0,R,0,1,1,1
+571578,field_out,WSH,LAD,Sinker,91.4,109.7,46.0,339.0,fly_ball,2.39,53.56,6.0,L,2,0,2,5
+571578,field_out,WSH,LAD,Sinker,93.1,101.4,19.0,309.0,line_drive,2.1,53.53,3.0,L,2,2,1,3
+571578,field_out,WSH,LAD,Slider,82.2,59.3,-19.0,5.0,ground_ball,2.52,53.38,7.0,L,3,2,1,1
+607179,walk,WSH,LAD,4-Seam Fastball,94.9,,,,,-1.77,53.87,13.0,R,3,0,2,7
+598264,home_run,WSH,LAD,Split-Finger,85.6,118.7,25.0,450.0,fly_ball,-1.89,53.94,5.0,R,1,0,0,9
+605288,single,LAD,NYM,Sinker,92.8,101.0,-2.0,33.0,ground_ball,-1.3,53.97,14.0,R,1,2,0,5
+605288,home_run,LAD,NYM,Slider,81.7,110.0,30.0,423.0,fly_ball,-1.38,53.94,5.0,R,0,1,1,3
+701643,walk,LAD,NYM,Sweeper,83.4,,,,,-1.85,54.74,13.0,R,3,2,1,6
+605288,strikeout,LAD,NYM,Slider,84.0,,,,,-1.6,53.85,13.0,R,1,2,1,1
+676130,double,LAD,NYM,Slider,87.5,103.4,21.0,328.0,line_drive,-2.36,54.36,14.0,R,2,2,0,5
+676130,walk,LAD,NYM,4-Seam Fastball,95.6,,,,,-2.19,54.46,12.0,R,3,1,2,2
+622098,strikeout,LAD,NYM,Cutter,90.3,,,,,-2.49,54.79,14.0,R,2,2,1,6
+676130,walk,LAD,NYM,Slider,86.8,,,,,-2.59,54.43,14.0,R,3,1,0,1
+621242,walk,LAD,NYM,4-Seam Fastball,96.5,,,,,-2.45,53.16,11.0,R,3,1,1,8
+640455,single,LAD,NYM,Sweeper,78.6,107.8,11.0,263.0,line_drive,2.3,53.47,4.0,L,2,2,2,5
+640455,walk,LAD,NYM,4-Seam Fastball,92.5,,,,,2.27,52.99,13.0,L,3,1,0,4
+640455,field_out,LAD,NYM,Sinker,94.2,95.2,-28.0,5.0,ground_ball,2.4,52.84,5.0,L,3,2,1,1
+518617,force_out,LAD,NYM,Sweeper,80.7,77.2,2.0,46.0,ground_ball,4.09,53.81,14.0,L,1,0,0,9
+548384,strikeout,LAD,NYM,Sweeper,81.2,,,,,3.23,54.4,3.0,L,3,2,0,7
+663623,single,LAD,WSH,Curveball,80.6,106.7,12.0,244.0,line_drive,-2.23,53.87,7.0,R,1,2,0,6
+663623,field_out,LAD,WSH,4-Seam Fastball,96.1,81.9,35.0,268.0,fly_ball,-2.15,53.55,2.0,R,0,1,1,3
+640451,single,LAD,WSH,4-Seam Fastball,98.6,99.0,13.0,276.0,line_drive,-1.72,54.32,4.0,R,2,2,2,8
+663623,single,LAD,WSH,Cutter,92.3,107.9,15.0,270.0,line_drive,-2.23,53.79,6.0,R,0,1,1,1
+571578,field_out,LAD,WSH,Sinker,91.2,97.0,43.0,321.0,fly_ball,2.34,53.59,4.0,L,0,0,0,7
+571578,field_out,LAD,WSH,Sinker,92.4,96.9,-26.0,5.0,ground_ball,2.31,53.56,4.0,L,0,0,2,4
+571578,field_out,LAD,WSH,Sinker,92.3,107.7,-9.0,15.0,ground_ball,2.28,53.68,5.0,L,0,0,1,2
+663432,single,LAD,WSH,4-Seam Fastball,94.4,54.2,-73.0,1.0,ground_ball,-2.84,54.1,11.0,R,2,2,2,8
+571578,single,LAD,WSH,Sinker,92.4,93.1,13.0,238.0,line_drive,2.1,53.5,8.0,L,0,2,0,1
+680730,strikeout,LAD,WSH,Curveball,80.3,,,,,1.7,53.6,9.0,L,2,2,1,3
+680730,single,LAD,WSH,Curveball,80.6,107.3,-6.0,18.0,ground_ball,2.07,53.95,8.0,L,2,1,1,1
+598264,catcher_interf,LAD,WSH,4-Seam Fastball,91.6,,,,,-1.68,53.6,11.0,R,3,2,0,6
+640451,field_out,LAD,WSH,4-Seam Fastball,98.6,98.4,16.0,303.0,line_drive,-1.82,54.17,4.0,R,0,2,2,7
+506433,strikeout,LAD,SD,Cutter,89.3,,,,,-1.64,53.94,8.0,R,0,2,1,5
+506433,field_out,LAD,SD,Cutter,92.0,77.3,61.0,184.0,popup,-1.84,53.85,4.0,R,3,2,2,3
+506433,strikeout,LAD,SD,Cutter,93.2,,,,,-2.02,53.86,9.0,R,1,2,0,1
+593974,single,LAD,SD,Changeup,87.7,108.6,8.0,185.0,line_drive,1.8,54.49,9.0,L,0,0,0,8
+663362,field_out,LAD,SD,Cutter,86.7,55.6,38.0,149.0,line_drive,-1.69,53.45,12.0,R,1,0,2,4
+663362,walk,LAD,SD,Cutter,86.7,,,,,-1.64,53.77,13.0,R,3,2,0,3
+666745,field_out,LAD,SD,4-Seam Fastball,95.6,110.3,43.0,344.0,fly_ball,-1.09,54.42,3.0,R,2,1,2,8
+663362,walk,LAD,SD,Cutter,87.5,,,,,-1.35,53.73,11.0,R,3,0,1,1
+670970,sac_fly,LAD,SD,Sweeper,81.1,102.7,23.0,384.0,fly_ball,2.7,53.73,5.0,L,1,1,1,6
+650633,double,LAD,SD,Slider,85.6,85.2,53.0,226.0,fly_ball,-2.59,54.38,7.0,R,1,2,0,5
+650633,field_out,LAD,SD,4-Seam Fastball,92.9,104.9,19.0,361.0,line_drive,-2.7,54.23,11.0,R,1,1,2,2
+650633,home_run,LAD,SD,4-Seam Fastball,95.4,107.3,25.0,403.0,fly_ball,-2.7,54.4,11.0,R,1,0,1,1
+673513,double,LAD,SD,Split-Finger,86.0,107.9,14.0,240.0,line_drive,2.14,54.38,5.0,L,2,1,1,7
+676680,field_out,LAD,SD,Sinker,90.3,102.2,20.0,349.0,line_drive,2.51,54.31,12.0,L,0,1,1,9
+663978,single,MIN,LAD,Slider,87.9,104.3,17.0,276.0,line_drive,-2.38,53.56,12.0,R,2,2,1,5
+663978,field_out,MIN,LAD,Slider,86.8,77.4,40.0,245.0,fly_ball,-2.58,53.66,3.0,R,1,0,1,3
+592779,force_out,MIN,LAD,Cutter,95.2,106.1,-18.0,6.0,ground_ball,-1.93,53.63,14.0,R,0,1,1,7
+663978,walk,MIN,LAD,4-Seam Fastball,94.3,,,,,-2.46,53.24,14.0,R,3,0,0,1
+686973,field_out,MIN,LAD,4-Seam Fastball,94.9,83.7,39.0,266.0,fly_ball,-1.78,53.24,3.0,R,0,0,0,5
+686973,double,MIN,LAD,Slider,89.3,114.0,6.0,121.0,ground_ball,-1.61,53.47,8.0,R,0,1,2,3
+592779,field_out,MIN,LAD,Cutter,92.6,72.0,1.0,43.0,ground_ball,-1.79,53.73,12.0,R,0,1,2,8
+663485,strikeout,MIN,LAD,Split-Finger,87.8,,,,,-2.63,54.56,13.0,R,0,2,2,6
+686973,strikeout,MIN,LAD,Slider,90.3,,,,,-1.77,53.24,5.0,R,1,2,0,1
+641927,field_out,MIN,LAD,Slider,86.0,90.0,22.0,313.0,line_drive,-1.22,53.41,3.0,R,2,2,2,3
+543351,home_run,MIN,LAD,Slider,85.6,106.9,38.0,362.0,fly_ball,-2.38,53.99,5.0,R,2,1,2,7
+681892,strikeout,MIN,LAD,Slider,81.2,,,,,2.71,53.51,6.0,L,2,2,1,9
+641927,double,MIN,LAD,4-Seam Fastball,92.5,110.1,16.0,396.0,line_drive,-1.29,52.61,4.0,R,2,2,0,1
+595345,double,MIN,LAD,Sinker,92.9,88.3,20.0,249.0,line_drive,3.1,53.56,3.0,L,0,0,0,6
+684007,field_out,CHC,LAD,4-Seam Fastball,91.2,76.6,63.0,147.0,popup,2.45,54.2,3.0,L,0,1,2,3
+694037,double,CHC,LAD,4-Seam Fastball,97.0,106.8,20.0,395.0,line_drive,-2.14,53.31,6.0,R,2,1,2,8
+684007,strikeout,CHC,LAD,4-Seam Fastball,94.4,,,,,2.33,54.04,3.0,L,3,2,1,1
+643410,triple,CHC,LAD,Curveball,72.3,107.9,16.0,279.0,line_drive,-1.5,54.13,5.0,R,0,0,2,6
+696136,single,CHC,LAD,Sinker,91.3,78.2,17.0,198.0,line_drive,2.26,54.19,12.0,L,1,0,1,5
+696136,field_out,CHC,LAD,4-Seam Fastball,92.0,95.1,37.0,310.0,fly_ball,1.9,54.22,2.0,L,3,2,0,3
+643410,strikeout,CHC,LAD,Split-Finger,84.9,,,,,-1.49,53.96,14.0,R,1,2,0,9
+696136,single,CHC,LAD,Sweeper,81.9,106.1,7.0,158.0,ground_ball,2.69,54.12,9.0,L,1,2,0,1
+681432,walk,CHC,LAD,4-Seam Fastball,96.9,,,,,2.8,52.91,13.0,L,3,1,0,7
+543294,home_run,CHC,LAD,Changeup,79.4,105.2,32.0,379.0,fly_ball,-2.87,55.09,8.0,R,0,0,0,5
+543294,field_out,CHC,LAD,Changeup,80.8,83.1,-13.0,9.0,ground_ball,-2.82,55.26,7.0,R,1,2,0,3
+592767,field_out,CHC,LAD,Knuckle Curve,80.8,99.2,16.0,284.0,line_drive,1.48,54.75,8.0,L,1,1,0,7
+657240,field_out,CHC,LAD,Slider,84.6,110.2,36.0,351.0,fly_ball,-1.67,54.04,3.0,R,3,2,2,8
+543294,double,CHC,LAD,Sinker,88.2,106.1,12.0,304.0,line_drive,-2.82,55.0,7.0,R,1,1,1,1
+690986,field_out,LAD,SF,4-Seam Fastball,93.9,93.5,20.0,305.0,line_drive,1.89,53.9,2.0,L,1,2,2,4
+690986,single,LAD,SF,4-Seam Fastball,92.9,69.7,10.0,103.0,ground_ball,1.8,53.77,12.0,L,1,0,0,3
+573124,home_run,LAD,SF,Sinker,93.2,105.6,24.0,430.0,fly_ball,1.64,54.82,1.0,L,3,1,2,7
+690986,strikeout,LAD,SF,Changeup,86.5,,,,,2.05,53.38,13.0,L,2,2,0,1
+657277,walk,LAD,SF,Sinker,90.7,,,,,-1.26,53.68,11.0,R,3,0,2,4
+657277,field_out,LAD,SF,Sinker,91.3,92.7,35.0,327.0,fly_ball,-1.15,53.22,5.0,R,0,1,1,3
+657277,strikeout,LAD,SF,Sweeper,84.1,,,,,-1.64,53.2,7.0,R,3,2,0,1
+573124,field_out,LAD,SF,Sinker,92.7,95.1,-22.0,8.0,ground_ball,1.88,54.63,1.0,L,0,0,2,6
+676775,field_out,LAD,SF,Split-Finger,88.6,95.6,37.0,324.0,fly_ball,-1.55,54.24,11.0,R,3,2,2,5
+676775,double,LAD,SF,Split-Finger,88.7,98.9,4.0,87.0,ground_ball,-1.52,54.27,8.0,R,2,0,1,3
+687014,strikeout,LAD,SF,4-Seam Fastball,94.7,,,,,-1.43,54.51,2.0,R,1,2,1,7
+676775,field_out,LAD,SF,Split-Finger,90.5,108.8,2.0,61.0,ground_ball,-1.45,54.24,7.0,R,1,1,0,1
+571927,double,LAD,STL,Changeup,83.4,115.8,16.0,310.0,line_drive,1.55,54.0,2.0,L,0,1,0,6
+571927,strikeout,LAD,STL,Changeup,84.4,,,,,1.62,53.79,13.0,L,2,2,2,3
+669467,field_out,LAD,STL,4-Seam Fastball,96.1,77.4,-51.0,2.0,ground_ball,-2.02,53.93,5.0,R,2,2,2,7
+571927,strikeout,LAD,STL,Sinker,96.3,,,,,1.67,53.92,11.0,L,2,2,1,1
+458681,strikeout,LAD,STL,Cutter,88.5,,,,,-3.49,53.69,5.0,R,3,2,2,2
+606149,field_out,LAD,STL,4-Seam Fastball,91.1,103.7,61.0,181.0,popup,-1.71,55.26,6.0,R,2,1,2,10
+669461,walk,LAD,STL,Sinker,94.5,,,,,0.78,54.14,1.0,L,3,2,1,5
+664854,strikeout,LAD,STL,Slider,89.4,,,,,-0.43,53.8,2.0,R,1,2,1,9
+458681,single,LAD,STL,Changeup,85.3,113.9,11.0,202.0,line_drive,-3.35,53.89,4.0,R,2,1,0,1
+668941,field_out,LAD,STL,Slider,85.6,69.5,40.0,217.0,fly_ball,1.65,55.01,13.0,L,1,2,0,7
+668868,grounded_into_double_play,LAD,STL,Slider,81.9,81.3,-12.0,13.0,ground_ball,0.78,53.86,2.0,L,2,1,0,5
+668868,field_out,LAD,STL,Slider,84.5,89.2,36.0,289.0,fly_ball,0.65,53.81,11.0,L,0,1,2,3
+606149,strikeout,LAD,STL,Slider,83.4,,,,,-1.75,54.54,9.0,R,3,2,2,7
+668868,field_out,LAD,STL,Slider,82.7,88.5,10.0,153.0,line_drive,0.45,54.24,7.0,L,2,2,0,1
+571945,single,LAD,STL,Slider,87.0,113.0,7.0,121.0,ground_ball,-2.6,55.17,8.0,R,2,1,1,5
+571945,walk,LAD,STL,Changeup,85.9,,,,,-2.69,53.7,4.0,R,3,1,0,3
+676617,strikeout,LAD,STL,Slider,90.1,,,,,-2.0,53.7,3.0,R,1,2,0,7
+571945,double,LAD,STL,Changeup,86.9,91.5,15.0,218.0,line_drive,-2.55,54.67,7.0,R,1,2,0,1
+681217,strikeout,LAA,LAD,Sweeper,79.8,,,,,-1.74,54.43,9.0,R,3,2,1,4
+681217,strikeout,LAA,LAD,4-Seam Fastball,96.1,,,,,-1.69,54.69,11.0,R,2,2,1,1
+672282,walk,LAD,LAA,4-Seam Fastball,94.7,,,,,1.33,54.52,12.0,L,3,2,2,5
+672282,field_out,LAD,LAA,4-Seam Fastball,93.3,82.7,1.0,52.0,ground_ball,1.4,54.32,3.0,L,0,0,0,3
+672282,field_out,LAD,LAA,Slider,85.6,91.9,5.0,99.0,ground_ball,1.52,54.3,3.0,L,1,2,1,1
+656288,strikeout,LAD,LAA,Changeup,87.9,,,,,-1.4,54.81,1.0,R,3,2,1,4
+688274,walk,LAD,LAA,,,,,,,,,,R,3,1,2,2
+656288,field_out,LAD,LAA,,,,,,fly_ball,,,,R,1,0,1,1
+605397,sac_fly,LAD,SD,Changeup,87.8,98.5,32.0,357.0,fly_ball,-1.58,55.05,4.0,R,1,0,1,2
+650633,field_out,LAD,SD,Changeup,87.3,102.4,20.0,372.0,line_drive,-2.87,54.55,7.0,R,1,2,1,5
+676680,field_out,LAD,SD,Sweeper,78.2,49.4,-54.0,2.0,ground_ball,2.67,55.61,8.0,L,2,2,2,3
+605397,single,LAD,SD,Cutter,89.9,108.7,12.0,201.0,line_drive,-1.35,55.11,5.0,R,0,0,1,1
+663158,field_out,LAD,SD,Changeup,90.1,81.2,-2.0,29.0,ground_ball,-1.29,54.11,5.0,R,0,0,2,8
+673513,field_out,LAD,SD,Split-Finger,85.3,100.3,31.0,382.0,fly_ball,2.14,55.27,8.0,L,0,0,1,7
+506433,single,SD,LAD,Sinker,94.7,112.3,11.0,220.0,line_drive,-2.21,54.56,11.0,R,2,2,2,3
+676680,force_out,SD,LAD,Sinker,91.7,89.5,-12.0,11.0,ground_ball,2.48,54.7,14.0,L,1,0,0,5
+506433,force_out,SD,LAD,Split-Finger,91.1,77.9,-13.0,11.0,ground_ball,-2.05,54.72,4.0,R,2,1,0,1
+593974,field_out,SD,LAD,Changeup,86.3,82.9,-21.0,,ground_ball,1.98,55.28,9.0,L,1,1,1,7
+670970,single,SD,LAD,Sinker,98.3,74.6,22.0,215.0,line_drive,2.57,54.83,14.0,L,0,0,1,8
+596271,strikeout,LAD,SEA,,,,,,,,,,R,0,2,1,3
+642100,strikeout,LAD,SEA,,,,,,,,,,L,1,2,2,5
+596271,field_out,LAD,SEA,,,,,,fly_ball,,,,R,0,0,1,1
+669416,single,LAD,SF,,,,,,ground_ball,,,,R,0,0,1,3
+694738,home_run,LAD,SF,,,,,,fly_ball,,,,R,2,2,2,6
+664054,strikeout,LAD,SF,,,,,,,,,,R,0,2,0,5
+669416,single,LAD,SF,,,,,,line_drive,,,,R,0,0,1,1
+696508,walk,LAD,AZ,,,,,,,,,,R,3,0,2,1
+694297,strikeout,LAD,AZ,,,,,,,,,,R,0,2,0,1
+620454,field_out,LAD,AZ,,,,,,ground_ball,,,,L,0,0,0,4
+669459,double,LAD,AZ,,,,,,line_drive,,,,L,0,0,0,6
+656629,single,CWS,LAD,,,,,,ground_ball,,,,R,0,0,2,2
+657053,walk,CWS,LAD,,,,,,,,,,R,3,0,2,4
+656629,single,CWS,LAD,,,,,,line_drive,,,,R,1,0,0,1
+670871,field_out,LAD,LAA,,,,,,fly_ball,,,,R,0,1,2,5
+681217,strikeout,LAD,LAA,,,,,,,,,,R,0,2,0,1
+668869,strikeout,LAD,LAA,,,,,,,,,,L,0,2,1,3
+596295,triple,LAD,COL,,,,,,fly_ball,,,,L,0,0,1,2
+663562,single,LAD,COL,,,,,,line_drive,,,,R,0,0,1,3
+596295,single,LAD,COL,,,,,,line_drive,,,,L,0,0,0,1
+595881,walk,LAD,CLE,,,,,,,,,,R,3,0,2,5
+471911,walk,LAD,CLE,,,,,,,,,,R,3,0,1,1
+595881,single,LAD,CLE,,,,,,ground_ball,,,,R,0,0,1,3
